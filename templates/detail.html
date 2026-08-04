@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title %}{{ warning.company or 'Waarschuwing' }} — IGJ Waarschuwingen{% endblock %}
+
+{% block content %}
+<div class="mb-4">
+    <a href="/" class="inline-flex items-center gap-1 text-sm text-igj-500 hover:text-igj-600 transition">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+        </svg>
+        Terug naar overzicht
+    </a>
+</div>
+
+<div class="bg-white rounded-lg border border-gray-200 shadow-sm overflow-hidden">
+    <!-- Header -->
+    <div class="bg-igj-500 text-white px-6 py-4">
+        <h2 class="text-xl font-bold">{{ warning.company or 'Onbekend bedrijf' }}</h2>
+        {% if warning.apparatus_name and warning.apparatus_name != warning.company %}
+        <p class="text-blue-200 mt-1">{{ warning.apparatus_name }}</p>
+        {% endif %}
+    </div>
+
+    <!-- Meta info -->
+    <div class="px-6 py-4 bg-gray-50 border-b border-gray-200">
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm">
+            <div>
+                <span class="text-gray-500 block">Datum</span>
+                <span class="font-medium text-gray-800">{{ warning.pub_date|formatdate }}</span>
+            </div>
+            {% if warning.reference_code %}
+            <div>
+                <span class="text-gray-500 block">Referentiecode</span>
+                <span class="font-medium text-gray-800">{{ warning.reference_code }}</span>
+            </div>
+            {% endif %}
+            <div>
+                <span class="text-gray-500 block">Bron</span>
+                <a href="{{ warning.link }}" target="_blank" rel="noopener"
+                   class="font-medium text-igj-500 hover:underline inline-flex items-center gap-1">
+                    Bekijk op IGJ.nl
+                    <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Description -->
+    <div class="px-6 py-5">
+        <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">Beschrijving</h3>
+        <div class="text-gray-700 leading-relaxed whitespace-pre-line">{{ warning.description or 'Geen beschrijving beschikbaar.' }}</div>
+    </div>
+
+    <!-- Full title -->
+    <div class="px-6 py-4 bg-gray-50 border-t border-gray-200">
+        <p class="text-xs text-gray-400">
+            Originele titel: {{ warning.title_raw }}
+        </p>
+    </div>
+</div>
+{% endblock %}

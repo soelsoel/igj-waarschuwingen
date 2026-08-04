@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.db-wal
+*.db-shm
+IGJ.zip
+.claude/
