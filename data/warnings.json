@@ -1,18 +1,7 @@
 {
   "generated_at": "2026-08-11T06:30:19+00:00",
-  "count": 56,
+  "count": 55,
   "warnings": [
-    {
-      "id": "fbfc3ca48b60",
-      "guid": "doc-6a7990fac2ac4ee4fe02e90a",
-      "title_raw": "ABLE Human Motion S.L., FSN-XX-20260507, ABLE Exoskeleton",
-      "company": "ABLE Human Motion S.L.",
-      "reference_code": "FSN-XX",
-      "apparatus_name": "20260507, ABLE Exoskeleton",
-      "link": "https://www.igj.nl/documenten/fsn-2026/08/10/able-human-motion-s.l.-fsn-xx-20260507-able-exoskeleton",
-      "description": "Bone fractures are a known and inherent risk associated with the use of exoskeletons and may be related to multiple contributing factors.\nA potential increased risk of fractures associated with the use of the ABLE exoskeleton has been identifi ed...",
-      "pub_date": "2026-08-09T22:00:00+00:00"
-    },
     {
       "id": "2deff495cc70",
       "guid": "doc-6a7984dfa28ac2dda89710f0",
