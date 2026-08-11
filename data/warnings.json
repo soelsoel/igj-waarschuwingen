@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-04T07:54:07+00:00",
-  "count": 49,
+  "generated_at": "2026-08-11T06:30:19+00:00",
+  "count": 56,
   "warnings": [
+    {
+      "id": "fbfc3ca48b60",
+      "guid": "doc-6a7990fac2ac4ee4fe02e90a",
+      "title_raw": "ABLE Human Motion S.L., FSN-XX-20260507, ABLE Exoskeleton",
+      "company": "ABLE Human Motion S.L.",
+      "reference_code": "FSN-XX",
+      "apparatus_name": "20260507, ABLE Exoskeleton",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/10/able-human-motion-s.l.-fsn-xx-20260507-able-exoskeleton",
+      "description": "Bone fractures are a known and inherent risk associated with the use of exoskeletons and may be related to multiple contributing factors.\nA potential increased risk of fractures associated with the use of the ABLE exoskeleton has been identifi ed...",
+      "pub_date": "2026-08-09T22:00:00+00:00"
+    },
+    {
+      "id": "2deff495cc70",
+      "guid": "doc-6a7984dfa28ac2dda89710f0",
+      "title_raw": "Pharmico Medical Kft., FSCA-PHARMICO-2026.0001 Rev. 3, UroDapter. Ialuadapter",
+      "company": "Pharmico Medical Kft.",
+      "reference_code": "FSCA-PHARMICO",
+      "apparatus_name": "2026.0001 Rev. 3, UroDapter. Ialuadapter",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/10/pharmico-medical-kft.-fsca-pharmico-2026.0001-rev.-3-urodapter.-ialuadapter",
+      "description": "De adapter zelf bevat geen geneesmiddel. Spuiten, geneesmiddeloplossingen of spoeloplossingen die ermee worden gebruikt, vallen niet onder deze FSCA, tenzij zij samen met de betrokken adapter in een gecombineerde verpakking in de handel zijn...",
+      "pub_date": "2026-08-09T22:00:00+00:00"
+    },
+    {
+      "id": "5dbdc566fe50",
+      "guid": "doc-6a744133a28ac2d78e96f27c",
+      "title_raw": "Baxter Healthcare SA, FAV-2026-007, Homechoice Automated PD set with Cassette",
+      "company": "Baxter Healthcare SA",
+      "reference_code": "FAV",
+      "apparatus_name": "2026-007, Homechoice Automated PD set with Cassette",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/06/baxter-healthcare-sa-fav-2026-007-homechoice-automated-pd-set-with-cassette",
+      "description": "Vantive geeft een medisch hulpmiddel Field Safety Notice -Recall uit voor bepaalde lotnummers HomeChoice-sets met 4-poorts cassettes die hieronder worden vermeld, vanwege een probleem dat verband houdt met een toename van meldingen van alarmen...",
+      "pub_date": "2026-08-05T22:00:00+00:00"
+    },
+    {
+      "id": "853a0421a870",
+      "guid": "doc-6a71d1204bd36ced77475da2",
+      "title_raw": "Remel Europe Ltd,FSN-2026-007 Remel Europe Ltd, Neisseria meningitidis Gp C 2ml.VL",
+      "company": "Remel Europe Ltd",
+      "reference_code": "FSN-2026",
+      "apparatus_name": "007 Remel Europe Ltd, Neisseria meningitidis Gp C 2ml.VL",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/04/remel-europe-ltdfsn-2026-007-remel-europe-ltd-neisseria-meningitidis-gp-c-2ml.vl",
+      "description": "A technical investigation as a result of a customer complaint has  determined that the following lots of R30166901 Neisseria meningitidis Gp C 2ml/VL  are not performing to IFU criteria not positive to ATCC13102 within 60 Seconds.",
+      "pub_date": "2026-08-03T22:00:00+00:00"
+    },
+    {
+      "id": "73f5ac063e13",
+      "guid": "doc-6a71ca184bd36c37ef475cd3",
+      "title_raw": "Lowenstein Medical SE and Co. KG, FSCA2026011, Leoni Plus",
+      "company": "Lowenstein Medical SE and Co. KG",
+      "reference_code": "FSCA2026011",
+      "apparatus_name": "Leoni Plus",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/04/lowenstein-medical-se-and-co.-kg-fsca2026011-leoni-plus",
+      "description": "Bij de genoemde producten kan er intern oververhitting van een elektronisch onderdeel optreden.",
+      "pub_date": "2026-08-03T22:00:00+00:00"
+    },
+    {
+      "id": "2d1cf8c16201",
+      "guid": "doc-6a719fdd4bd36c0d354758ec",
+      "title_raw": "SY-LAB Gerate, 406-2026, IceCube",
+      "company": "SY-LAB Gerate",
+      "reference_code": "406-2026",
+      "apparatus_name": "IceCube",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/04/sy-lab-gerate-406-2026-icecube",
+      "description": "During a technical modification in 2023, a deviation occurred in one of our supplier’s manufacturing processes that could lead to the retaining ring coming loose over the solenoid valve’s extended service life. This could result in the valve...",
+      "pub_date": "2026-08-03T22:00:00+00:00"
+    },
+    {
+      "id": "0b12941e3820",
+      "guid": "doc-6a71cc824bd36c69a4475d0d",
+      "title_raw": "BD Switzerland Sarl, MMS-26-06113, AlarisTM GW 800 Volumetric Pump",
+      "company": "BD Switzerland Sarl",
+      "reference_code": "MMS-26-06113",
+      "apparatus_name": "AlarisTM GW 800 Volumetric Pump",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/04/bd-switzerland-sarl-mms-26-06113-alaristm-gw-800-volumetric-pump",
+      "description": "BD heeft via klantfeedback vastgesteld dat de BT1 (Varta 3/V15H NiMH) geïntegreerde batterij in de Alaris™ GW800-pompen het potentieel heeft om onverwacht te corroderen.\nEen gecorrodeerde BT1 geïntegreerde batterij op het bedieningspaneel van de...",
+      "pub_date": "2026-08-03T22:00:00+00:00"
+    },
     {
       "id": "7dd1545013c7",
       "guid": "doc-6a70415d4bd36ca52f474c1f",
