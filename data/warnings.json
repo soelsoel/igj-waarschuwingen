@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-11T06:39:50+00:00",
-  "count": 56,
+  "generated_at": "2026-08-12T06:43:35+00:00",
+  "count": 57,
   "warnings": [
+    {
+      "id": "ff8fffc55757",
+      "guid": "doc-6a7ade00a28ac2e4cb971f24",
+      "title_raw": "AngioDynamics, Inc., Recall ID 1319211-03-03-2026-001-R, Soft-Vu and Accu-Vu 4 FR Angiographic Catheters",
+      "company": "AngioDynamics, Inc., Recall ID 1319211-03-03",
+      "reference_code": "2026-001",
+      "apparatus_name": "R, Soft-Vu and Accu-Vu 4 FR Angiographic Catheters",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/11/angiodynamics-inc.-recall-id-1319211-03-03-2026-001-r-soft-vu-and-accu-vu-4-fr-angiographic-catheters",
+      "description": "De getroffen angiografische katheters Soft-Vu en Accu-Vu 4 FR die worden teruggeroepen (uit de handel genomen) hebben een fabricagefout die er voor kan zorgen dat een voerdraad van het juiste formaat niet door de binnendiameter (ID) van het...",
+      "pub_date": "2026-08-10T22:00:00+00:00"
+    },
     {
       "id": "2deff495cc70",
       "guid": "doc-6a7984dfa28ac2dda89710f0",
