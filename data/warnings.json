@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-13T06:47:14+00:00",
-  "count": 58,
+  "generated_at": "2026-08-13T14:47:32+00:00",
+  "count": 74,
   "warnings": [
+    {
+      "id": "7b25fd5d1e08",
+      "guid": "doc-6a7dbd4da28ac2d67697476e",
+      "title_raw": "Fresenius Medical Care AG-SO-2026-3518-Smartbag - Liquid Acid Concentrates",
+      "company": "Fresenius Medical Care AG-SO",
+      "reference_code": "2026-3518",
+      "apparatus_name": "Smartbag - Liquid Acid Concentrates",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/fresenius-medical-care-ag-so-2026-3518-smartbag-liquid-acid-concentrates",
+      "description": "Tijdens een inspectie heeft Fresenius Medical Care een defecte pomp vastgesteld die werd gebruikt in het productieproces. De defecte pomp is inmiddels vervangen, maar uit testen van eerder geproduceerde smartbags bleek sporadische aanwezigheid van...",
+      "pub_date": "2026-08-13T12:43:00+00:00"
+    },
+    {
+      "id": "a9c33d2195bb",
+      "guid": "doc-6a7db99bc2ac4e9b9d0314b7",
+      "title_raw": "ZARYS International sp. z o.o.-FSCA.ZARYS.2026.02-ENDOTRACHEAL TUBE CUFFED, I.D. mm 7.0",
+      "company": "ZARYS International sp. z o.o.-FSCA.ZARYS.2026.02-ENDOTRACHEAL TUBE CUFFED",
+      "reference_code": "",
+      "apparatus_name": "I.D. mm 7.0",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/zarys-international-sp.-z-o.o.-fsca.zarys.2026.02-endotracheal-tube-cuffed-i.d.-mm-7.0",
+      "description": "ZARYS International sp. z o.o. informeert u over een mogelijk kwaliteitsprobleem bij endotracheale tubes met cuff, bestaande uit de aanwezigheid van een scherp, star materiaalfragment ter hoogte van de lasnaad aan het distale uiteinde van de tube,...",
+      "pub_date": "2026-08-13T12:33:00+00:00"
+    },
+    {
+      "id": "21541f56636a",
+      "guid": "doc-6a7db707c2ac4e435b031471",
+      "title_raw": "Immucor, Inc.-EU FA 26-08 FA-NOR-26-04-Panocell-16",
+      "company": "Immucor",
+      "reference_code": "",
+      "apparatus_name": "Inc.-EU FA 26-08 FA-NOR-26-04-Panocell-16",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/immucor-inc.-eu-fa-26-08-fa-nor-26-04-panocell-16",
+      "description": "Werfen geeft deze veiligheidskennisgeving uit met betrekking tot de P1-antigeentyping van donor B11752, gebruikt bij de ontwikkeling van Panocell®-16. Vervolgonderzoek van donor B11752 heeft aangetoond dat de cellen van deze donor een zwakke...",
+      "pub_date": "2026-08-13T12:22:00+00:00"
+    },
+    {
+      "id": "a99fb9e9685c",
+      "guid": "doc-6a7db45cc2ac4e5f120313fe",
+      "title_raw": "ICU Medical-MA2610-IV Tubing Set Drip Chambers",
+      "company": "ICU Medical",
+      "reference_code": "MA2610",
+      "apparatus_name": "IV Tubing Set Drip Chambers",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/icu-medical-ma2610-iv-tubing-set-drip-chambers",
+      "description": "ICU Medical received reports of discolouration observed in the drip chambers of certain IV tubing sets. There were six (6) complaints in the EMEA region between 2022-2025.",
+      "pub_date": "2026-08-13T12:10:00+00:00"
+    },
+    {
+      "id": "2b090b7f6149",
+      "guid": "doc-6a7dabe9a28ac2d326974460",
+      "title_raw": "Philips Medizin Systeme Böblingen GmbH-FSCA-2026-CC-HPM-008-Patient Information Center iX, PIC iX Essentials",
+      "company": "Philips Medizin Systeme Böblingen GmbH",
+      "reference_code": "FSCA-2026",
+      "apparatus_name": "CC-HPM-008-Patient Information Center iX, PIC iX Essentials",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/philips-medizin-systeme-boblingen-gmbh-fsca-2026-cc-hpm-008-patient-information-center-ix-pic-ix-essentials",
+      "description": "Philips ontving meldingen dat sommige PIC iX-systemen vastliepen en niet gebruikt konden worden. Er werd vastgesteld dat het falen van de Watchdog het systeem in een onbekende toestand kan brengen en dat alarmen daardoor mogelijk niet worden...",
+      "pub_date": "2026-08-13T11:34:00+00:00"
+    },
+    {
+      "id": "5b7de8ba0ced",
+      "guid": "doc-6a7da459a28ac277c09743a8",
+      "title_raw": "Roche Diagnostics GmbH-SBN-RDS-CoreLab-2026-006-Cobas t coagulation",
+      "company": "Roche Diagnostics GmbH-SBN-RDS-CoreLab",
+      "reference_code": "2026-006",
+      "apparatus_name": "Cobas t coagulation",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/roche-diagnostics-gmbh-sbn-rds-corelab-2026-006-cobas-t-coagulation",
+      "description": "Roche received complaints about the frequent occurrence of samples being flagged with [Clot.?] or [<CTval] with different assays. Investigations have confirmed that using a cobas t 511 / t 711 coagulation analyzer together with the Greiner...",
+      "pub_date": "2026-08-13T11:01:00+00:00"
+    },
+    {
+      "id": "d397ce56c651",
+      "guid": "doc-6a7da1c0a28ac2cc4597437d",
+      "title_raw": "Alber GmbH-FSN_02_2026_e-motion M25-e-motion",
+      "company": "Alber GmbH",
+      "reference_code": "FSN_02_2026_e",
+      "apparatus_name": "motion M25-e-motion",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/alber-gmbh-fsn_02_2026_e-motion-m25-e-motion",
+      "description": "Na meldingen van twee hackpogingen gericht op het product e-motion M25, die niet leidden tot riskante situaties, wil Alber GmbH de volgende belangrijke informatie onder uw aandacht brengen, als voorzorgsmaatregel in het belang van de veiligheid...",
+      "pub_date": "2026-08-13T10:51:00+00:00"
+    },
+    {
+      "id": "ec0aa2a3f542",
+      "guid": "doc-6a7d9866c2ac4e35030311fa",
+      "title_raw": "BioFire Diagnostics LLC-FA-TWD-000081-1-BIOFIRE FILMARRAY TORCH Base",
+      "company": "BioFire Diagnostics LLC",
+      "reference_code": "FA-TWD",
+      "apparatus_name": "000081-1-BIOFIRE FILMARRAY TORCH Base",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/biofire-diagnostics-llc-fa-twd-000081-1-biofire-filmarray-torch-base",
+      "description": "The purpose of this letter is to inform you of a field deployable solution to resolve the previous field safety notice FSCA 5761 initially communicated in October 2023, involving the BIOFIRE® FILMARRAY® TORCH System Base (reference number:...",
+      "pub_date": "2026-08-13T10:11:00+00:00"
+    },
+    {
+      "id": "9d80db789961",
+      "guid": "doc-6a7d9588c2ac4e5891031179",
+      "title_raw": "Trividia Health Inc.-FSCA-AN-2026-001-TRUE METRIX AIR TRUE METRIX GO",
+      "company": "Trividia Health Inc.",
+      "reference_code": "FSCA-AN",
+      "apparatus_name": "2026-001-TRUE METRIX AIR TRUE METRIX GO",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/trividia-health-inc.-fsca-an-2026-001-true-metrix-air-true-metrix-go",
+      "description": "The purpose of this letter is to provide an important update on Trividia Health’s (“Trividia” or “we”), medical device labeling correction that was announced on February 12, 2026, for all TRUE METRIX®, TRUE METRIX® AIR, and TRUE METRIX® GO, Blood...",
+      "pub_date": "2026-08-13T09:58:00+00:00"
+    },
+    {
+      "id": "9f93e0b3ae5f",
+      "guid": "doc-6a7d883da28ac2ebb8973fbf",
+      "title_raw": "DiaMed GmbH-FA-CDG-26010-ID-Card LISS Combs",
+      "company": "DiaMed GmbH",
+      "reference_code": "FA-CDG",
+      "apparatus_name": "26010-ID-Card LISS Combs",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/diamed-gmbh-fa-cdg-26010-id-card-liss-combs",
+      "description": "Bio-Rad identified that some units of ID-Card “LISS/Coombs” lot 50531.33.32 / 0524633332 may exhibit a red haze leading to uninterpretable and/or false positive results when used in instruments. During manual reading of the card, it is possible to...",
+      "pub_date": "2026-08-13T09:00:00+00:00"
+    },
+    {
+      "id": "27a339dfe043",
+      "guid": "doc-6a7d845dc2ac4e24b0030e9e",
+      "title_raw": "Siemens Healthcare GmbH-AX018.26.S FSCA, AX019.26.S FSN-ARTIS icono",
+      "company": "Siemens Healthcare GmbH-AX018.26.S FSCA",
+      "reference_code": "",
+      "apparatus_name": "AX019.26.S FSN-ARTIS icono",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/siemenhealthcare-gmbh-ax018.26.s-fsca-ax019.26.s-fsn-artis-icono",
+      "description": "In very rare situations, after increasing the detector lift height to its maximum or minimum, the system may lose its movement capability.  A reboot may not reestablish movement control. This failure can be resolved only by  qualified service...",
+      "pub_date": "2026-08-13T08:44:00+00:00"
+    },
     {
       "id": "282aee52317d",
       "guid": "doc-6a7d6784a28ac2f5ba973bc0",
@@ -11,6 +132,61 @@
       "apparatus_name": "FSN-26.08, MEDSOFT",
       "link": "https://www.igj.nl/documenten/fsn-2026/08/13/medline-industries-lp-fsn-26.08-medsoft",
       "description": "We hebben vastgesteld dat de etikettering van de afzuig- en opvangsystemen met flexibele zak met\nMed-Stop-hulpmiddelen niet zijn voorzien van de Med-Stop-gebruiksaanwijzingen.",
+      "pub_date": "2026-08-12T22:00:00+00:00"
+    },
+    {
+      "id": "6217dda73da6",
+      "guid": "doc-6a7d9cffa28ac2b7699742db",
+      "title_raw": "Siemens Healthcare Diagnostics Products Ltd, IMC26-06, IMMULITE 2000 Syphilis Screen",
+      "company": "Siemens Healthcare Diagnostics Products Ltd",
+      "reference_code": "IMC26-06",
+      "apparatus_name": "IMMULITE 2000 Syphilis Screen",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/siemens-healthcare-diagnostics-products-ltd-imc26-06-immulite-2000-syphilis-screen",
+      "description": "Siemens Healthineers has confirmed through internal investigation that IMMULITE 2000 Syphilis Screen Lot 387 has a negative patient bias compared to other lots. While the IMMULITE 2000 Syphilis Screen is a qualitative assay, signal/cutoff (S/CO)...",
+      "pub_date": "2026-08-12T22:00:00+00:00"
+    },
+    {
+      "id": "1888d281992f",
+      "guid": "doc-6a7d6e9fc2ac4e4d42030c3c",
+      "title_raw": "Cook Endoscopy.Wilson Cook Medical, Inc., 2026FA0004, Hemospray Endoscopic Hemostat",
+      "company": "Cook Endoscopy.Wilson Cook Medical, Inc.",
+      "reference_code": "2026FA0004",
+      "apparatus_name": "Hemospray Endoscopic Hemostat",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/cook-endoscopy.wilson-cook-medical-inc.-2026fa0004-hemospray-endoscopic-hemostat",
+      "description": "The purpose of this FSN is to bring heightened awareness to all Hemospray Endoscopic Hemostat users about upcoming updates to the Hemospray Endoscopic Hemostat Instructions for Use (IFU). This FSCA is not a removal of devices; devices do not need...",
+      "pub_date": "2026-08-12T22:00:00+00:00"
+    },
+    {
+      "id": "9171e0f3532c",
+      "guid": "doc-6a7d8047c2ac4ebfcc030da2",
+      "title_raw": "Beckman Coulter, 26022, DxC 500i , DxC 500 AU Clinical Chemistry Analyzers",
+      "company": "Beckman Coulter",
+      "reference_code": "26022",
+      "apparatus_name": "DxC 500i , DxC 500 AU Clinical Chemistry Analyzers",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/beckman-coulter-26022-dxc-500i-dxc-500-au-clinical-chemistry-analyzers",
+      "description": "Beckman Coulter heeft vastgesteld dat een wijziging die door gebruikers is aangebracht in de onderstaande 25 vooraf gedefinieerde berekeningsregels – die deel uitmaken van het parameterpakket – na upgrades van het parameterpakket of de software...",
+      "pub_date": "2026-08-12T22:00:00+00:00"
+    },
+    {
+      "id": "6e762e7cae4a",
+      "guid": "doc-6a7d7c96c2ac4ec0e6030d21",
+      "title_raw": "AMO Uppsala AB, FA-0000155, Healon EndoCoat PRO, Healon Duet PRO II",
+      "company": "AMO Uppsala AB",
+      "reference_code": "FA-0000155",
+      "apparatus_name": "Healon EndoCoat PRO, Healon Duet PRO II",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/amo-uppsala-ab-fa-0000155-healon-endocoat-pro-healon-duet-pro-ii",
+      "description": "HEALON EndoCoat™ PRO is supplied with an ultra-thin walled 25G orange cannula compared to the thin-walled 25G blue cannula supplied with HEALON EndoCoat. The cannula is designed to pass smoothly through the paracentesis (side-port) incision....",
+      "pub_date": "2026-08-12T22:00:00+00:00"
+    },
+    {
+      "id": "dc7aaed014f1",
+      "guid": "doc-6a7d6aacc2ac4ee327030c29",
+      "title_raw": "Maquet Cardiopulmonary GmbH, 1573818, Insertion Kit Guidewire",
+      "company": "Maquet Cardiopulmonary GmbH",
+      "reference_code": "1573818",
+      "apparatus_name": "Insertion Kit Guidewire",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/maquet-cardiopulmonary-gmbh-1573818-insertion-kit-guidewire",
+      "description": "It was identified that there have been failures in sterile barrier integrity verification testing. As\nthese failures were not previously addressed in accordance with packaging verification requirements, the\npackaging may not consistently maintain...",
       "pub_date": "2026-08-12T22:00:00+00:00"
     },
     {
