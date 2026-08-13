@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-12T06:43:35+00:00",
-  "count": 57,
+  "generated_at": "2026-08-13T06:47:14+00:00",
+  "count": 58,
   "warnings": [
+    {
+      "id": "282aee52317d",
+      "guid": "doc-6a7d6784a28ac2f5ba973bc0",
+      "title_raw": "Medline Industries, LP, FSN-26.08, MEDSOFT",
+      "company": "Medline Industries",
+      "reference_code": "LP",
+      "apparatus_name": "FSN-26.08, MEDSOFT",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/13/medline-industries-lp-fsn-26.08-medsoft",
+      "description": "We hebben vastgesteld dat de etikettering van de afzuig- en opvangsystemen met flexibele zak met\nMed-Stop-hulpmiddelen niet zijn voorzien van de Med-Stop-gebruiksaanwijzingen.",
+      "pub_date": "2026-08-12T22:00:00+00:00"
+    },
     {
       "id": "ff8fffc55757",
       "guid": "doc-6a7ade00a28ac2e4cb971f24",
