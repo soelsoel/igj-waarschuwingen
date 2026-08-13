@@ -2,7 +2,8 @@ name: Update feed
 
 on:
   schedule:
-    - cron: '17 5 * * *'
+    # Elk uur: de feed toont maar 20 items en IGJ publiceert er soms 10+ per dag.
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
