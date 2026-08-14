@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-13T14:47:32+00:00",
-  "count": 74,
+  "generated_at": "2026-08-14T13:42:35+00:00",
+  "count": 76,
   "warnings": [
+    {
+      "id": "279975b5c6ad",
+      "guid": "doc-6a7f196ca28ac22fe097566f",
+      "title_raw": "GIVEN IMAGING, INC., FA1581, Bravo CF capsule delivery dev, 1-pk .FGS-0636. and 5-pk .FGS-0635.",
+      "company": "GIVEN IMAGING, INC.",
+      "reference_code": "FA1581",
+      "apparatus_name": "Bravo CF capsule delivery dev, 1-pk .FGS-0636. and 5-pk .FGS-0635.",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/14/given-imaging-inc.-fa1581-bravo-cf-capsule-delivery-dev-1-pk-.fgs-0636.-and-5-pk-.fgs-0635.",
+      "description": "Medtronic constateert een toename van klachten in verband met het plaatsingshulpmiddel voor de Bravo CF-capsule waarbij de capsule niet aan de slokdarm kan hechten of niet loskomt van het toedieningshulpmiddel. Uit het voorlopige onderzoek naar de...",
+      "pub_date": "2026-08-13T22:00:00+00:00"
+    },
+    {
+      "id": "6fdfbefe912e",
+      "guid": "doc-6a7f05d1c2ac4e9d4c031ca9",
+      "title_raw": "Intervascular SAS, RC045 - 1574541, HEWROOT0024.26.28.30.32.34",
+      "company": "Intervascular SAS",
+      "reference_code": "RC045 - 1574541",
+      "apparatus_name": "HEWROOT0024.26.28.30.32.34",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/14/intervascular-sas-rc045-1574541-hewroot0024.26.28.30.32.34",
+      "description": "The IWP test is a release test used to verify that the vascular grafts meet the specified water permeability\nrequirements. Internal testing of samples from CARDIOROOT vascular grafts produced IWP results outside the\nlimit specified in the product...",
+      "pub_date": "2026-08-13T22:00:00+00:00"
+    },
     {
       "id": "7b25fd5d1e08",
       "guid": "doc-6a7dbd4da28ac2d67697476e",
