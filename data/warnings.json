@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T08:02:49+00:00",
-  "count": 79,
+  "generated_at": "2026-08-17T09:00:18+00:00",
+  "count": 80,
   "warnings": [
     {
       "id": "166238156aa5",
@@ -11,6 +11,17 @@
       "apparatus_name": "SD LTM 64 PLUS",
       "link": "https://www.igj.nl/documenten/fsn-2026/08/17/micromed-spa-fca-000066-sd-ltm-64-plus",
       "description": "Natus is op de hoogte gebracht van twee klachten met betrekking tot de SD LTM 64 PLUS waarbij de EEG-signalen, verkregen van twee of vier verschillende versterkers in een configuratie met meerdere versterkers (128 of 256 kanalen) met...",
+      "pub_date": "2026-08-16T22:00:00+00:00"
+    },
+    {
+      "id": "84205526ab92",
+      "guid": "doc-6a82c23611495c4025d85bf0",
+      "title_raw": "GE Medical Systems Information Technologies  Inc  Portrait Core Services V1",
+      "company": "GE Medical Systems Information Technologies  Inc  Portrait Core Services V1",
+      "reference_code": "",
+      "apparatus_name": "GE Medical Systems Information Technologies  Inc  Portrait Core Services V1",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/17/ge-medical-systems-information-technologies-inc-portrait-core-services-v1",
+      "description": "GE HealthCare has become aware that during a service event to update Portrait Core Services software at a facility, patients who are monitored on Portrait Mobile devices can be discharged from the Portrait monitoring system. This condition can...",
       "pub_date": "2026-08-16T22:00:00+00:00"
     },
     {
