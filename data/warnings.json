@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-17T07:16:01+00:00",
-  "count": 77,
+  "generated_at": "2026-08-17T08:02:49+00:00",
+  "count": 79,
   "warnings": [
+    {
+      "id": "166238156aa5",
+      "guid": "doc-6a82bfa911495cbd59d85bc1",
+      "title_raw": "Micromed S.p.A-FCA 000066-SD LTM 64 PLUS",
+      "company": "Micromed S.p.A",
+      "reference_code": "FCA 000066",
+      "apparatus_name": "SD LTM 64 PLUS",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/17/micromed-spa-fca-000066-sd-ltm-64-plus",
+      "description": "Natus is op de hoogte gebracht van twee klachten met betrekking tot de SD LTM 64 PLUS waarbij de EEG-signalen, verkregen van twee of vier verschillende versterkers in een configuratie met meerdere versterkers (128 of 256 kanalen) met...",
+      "pub_date": "2026-08-16T22:00:00+00:00"
+    },
     {
       "id": "279975b5c6ad",
       "guid": "doc-6a7f196ca28ac22fe097566f",
@@ -32,6 +43,17 @@
       "reference_code": "Bravo CF capsule delivery dev 1",
       "apparatus_name": "pk FGS- and 5-pk FGS",
       "link": "https://www.igj.nl/documenten/fsn-2026/08/14/given-imaging-inc.-fa1581-bravo-cf-capsule-delivery-dev-1-pk-.fgs-0636.-and-5-pk-.fgs-0635.",
+      "description": "Medtronic constateert een toename van klachten in verband met het plaatsingshulpmiddel voor de Bravo CF-capsule waarbij de capsule niet aan de slokdarm kan hechten of niet loskomt van het toedieningshulpmiddel. Uit het voorlopige onderzoek naar de...",
+      "pub_date": "2026-08-13T22:00:00+00:00"
+    },
+    {
+      "id": "fb3ed3b21e3e",
+      "guid": "doc-6a82b80bc2ac4e108312eea1",
+      "title_raw": "Given Imaging Inc-Bravo CF capsule delivery dev 1-pk FGS- and 5-pk FGS",
+      "company": "Given Imaging Inc",
+      "reference_code": "Bravo CF capsule delivery dev 1",
+      "apparatus_name": "pk FGS- and 5-pk FGS",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/14/given-maging-inc-bravo-cf-capsule-delivery-dev-1pk-and-5pk",
       "description": "Medtronic constateert een toename van klachten in verband met het plaatsingshulpmiddel voor de Bravo CF-capsule waarbij de capsule niet aan de slokdarm kan hechten of niet loskomt van het toedieningshulpmiddel. Uit het voorlopige onderzoek naar de...",
       "pub_date": "2026-08-13T22:00:00+00:00"
     },
