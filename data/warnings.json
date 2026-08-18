@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-17T09:00:18+00:00",
-  "count": 80,
+  "generated_at": "2026-08-18T08:53:19+00:00",
+  "count": 82,
   "warnings": [
+    {
+      "id": "dd12a88999bd",
+      "guid": "doc-6a8411cb9f0bb58b6bde214e",
+      "title_raw": "Nova BIomedical Cooporation StatStrip Lactate Test Strip",
+      "company": "Nova BIomedical Cooporation StatStrip Lactate Test Strip",
+      "reference_code": "",
+      "apparatus_name": "Nova BIomedical Cooporation StatStrip Lactate Test Strip",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/18/nova-biomedical-cooporation-statstrip-lactate-test-strip",
+      "description": "During routine quality monitoring, Nova Biomedical identified that the StatStrip Lactate Test Strip lots listed below may produce QC and/or linearity results outside the established acceptance criteria.",
+      "pub_date": "2026-08-17T22:00:00+00:00"
+    },
+    {
+      "id": "d04635d2c127",
+      "guid": "doc-6a84152e9f0bb5e2aede216f",
+      "title_raw": "Diagnostica Stago RC-26-0004 STA Staclot Protein S",
+      "company": "Diagnostica Stago RC",
+      "reference_code": "26",
+      "apparatus_name": "0004 STA Staclot Protein S",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/18/diagnostica-stago-rc-26-0004-sta-staclot-protein-s",
+      "description": "Following customer complaints regarding Quality Controls (QCs) out of the upper limit of the acceptable range at the end of the analytical series when using STA Staclot Protein S lot 273074, Stago investigated and confirmed a positive QC values...",
+      "pub_date": "2026-08-17T22:00:00+00:00"
+    },
     {
       "id": "166238156aa5",
       "guid": "doc-6a82bfa911495cbd59d85bc1",
