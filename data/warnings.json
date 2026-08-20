@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-18T08:53:19+00:00",
-  "count": 82,
+  "generated_at": "2026-08-20T07:56:38+00:00",
+  "count": 84,
   "warnings": [
+    {
+      "id": "f14c5dbf04a6",
+      "guid": "doc-6a86b1e611495c4081d87d99",
+      "title_raw": "Stryker endoscopy StrykeFlow PS and AHTO",
+      "company": "Stryker endoscopy StrykeFlow PS and AHTO",
+      "reference_code": "",
+      "apparatus_name": "Stryker endoscopy StrykeFlow PS and AHTO",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/20/stryker-endoscopy-strykeflow-ps-and-ahto",
+      "description": "There has been an increased amount in reported complaints consistently describing leaking from the handpiece during use.",
+      "pub_date": "2026-08-19T22:00:00+00:00"
+    },
+    {
+      "id": "9238937fd880",
+      "guid": "doc-6a86aff29f0bb5dbefde3abb",
+      "title_raw": "Chirag Shah ForeSight Oximeter Cable",
+      "company": "Chirag Shah ForeSight Oximeter Cable",
+      "reference_code": "",
+      "apparatus_name": "Chirag Shah ForeSight Oximeter Cable",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/20/chirag-shah-foresight-oximeter-cable",
+      "description": "Op basis van klantenfeedback heeft BD vastgesteld dat tijdens de productie, lateraliteitsidentificatielabels kunnen ontbreken of onjuist op het apparaat kunnen geplaatst zijn.",
+      "pub_date": "2026-08-19T22:00:00+00:00"
+    },
     {
       "id": "dd12a88999bd",
       "guid": "doc-6a8411cb9f0bb58b6bde214e",
