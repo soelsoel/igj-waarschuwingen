@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-20T07:56:38+00:00",
-  "count": 84,
+  "generated_at": "2026-08-21T08:57:34+00:00",
+  "count": 87,
   "warnings": [
+    {
+      "id": "7787633c596b",
+      "guid": "doc-6a8810a69f0bb5ee4bde46f2",
+      "title_raw": "Andreas Hettich GmbH-300326399-ROTOFIX 32 A",
+      "company": "Andreas Hettich GmbH",
+      "reference_code": "300326399",
+      "apparatus_name": "ROTOFIX 32 A",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/andreas-hettich-gmbh-300326399-rotofix-32-a",
+      "description": "Based on customer feedback, the manufacturer has identified that the lid-locking mechanism of certain ROTOFIX 32 A centrifuges may occasionally fail to engage correctly, resulting in the lid not being securely locked. The lid does not open on...",
+      "pub_date": "2026-08-21T08:47:00+00:00"
+    },
+    {
+      "id": "5f2bbba89687",
+      "guid": "doc-6a880e169f0bb530f9de46bf",
+      "title_raw": "Siemens Healthcare Diagnostics Inc-ACHC 26-10-Atellica CH Revised C-Reactive Protein RCRP",
+      "company": "Siemens Healthcare Diagnostics Inc",
+      "reference_code": "ACHC 26",
+      "apparatus_name": "10-Atellica CH Revised C-Reactive Protein RCRP",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/siemens-healthcare-diagnostics-inc-achc-26-10-atellica-ch-revised-c-reactive-protein-rcrp",
+      "description": "Siemens Healthineers has confirmed through the investigation of customer complaints the potential for falsely elevated results when the Atellica CH Revised C-Reactive Protein (RCRP) assay is used on the Atellica CH and Atellica CI analyzers.",
+      "pub_date": "2026-08-21T08:36:00+00:00"
+    },
+    {
+      "id": "3e63782842ac",
+      "guid": "doc-6a880c2b9f0bb5d767de46ac",
+      "title_raw": "Shenzhen Mindray Bio-Medical Electronics Co Ltd.-CP2607-JH06172-Monitor",
+      "company": "Shenzhen Mindray Bio",
+      "reference_code": "Medical Electronics Co Ltd.",
+      "apparatus_name": "CP2607-JH06172-Monitor",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/shenzhen-mindray-bio-medical-electronics-co-ltd.-cp2607-jh06172-monitor",
+      "description": "Mindray heeft vastgesteld dat de handleiding van de monitor onvoldoende beschrijvingen bevat met betrekking tot bepaalde items, wat verwarring bij gebruikers kan veroorzaken.",
+      "pub_date": "2026-08-21T08:27:00+00:00"
+    },
     {
       "id": "f14c5dbf04a6",
       "guid": "doc-6a86b1e611495c4081d87d99",
