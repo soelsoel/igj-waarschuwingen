@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-21T10:47:18+00:00",
-  "count": 90,
+  "generated_at": "2026-08-21T11:41:02+00:00",
+  "count": 93,
   "warnings": [
+    {
+      "id": "97990d0bcb0a",
+      "guid": "doc-6a8838a29f0bb52d6cde497a",
+      "title_raw": "PharmaPartners BV-FSCA-26-18-P, MIR-26-18-P-Pharmacom",
+      "company": "PharmaPartners BV",
+      "reference_code": "FSCA-26",
+      "apparatus_name": "18-P, MIR-26-18-P-Pharmacom",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/pharmapartners-bv-fsca-26-18-p-mir-26-18-p-pharmacom",
+      "description": "Sinds de installatie van Pharmacom versie 558 worden waarneemrecepten en onbevestigde Medicom-recepten niet meer meegenomen in de herhaalbatches. Deze regels worden niet getoond in het overzicht opgebouwde herhaalbatch. Inmiddels is gebleken dat...",
+      "pub_date": "2026-08-21T11:36:00+00:00"
+    },
+    {
+      "id": "49cc2a8864a6",
+      "guid": "doc-6a8834a99f0bb5d695de494b",
+      "title_raw": "Hsiner-202606-01-Bubble Humidifier Oxygen Therapy and Accessories NL7",
+      "company": "Hsiner",
+      "reference_code": "202606",
+      "apparatus_name": "01-Bubble Humidifier Oxygen Therapy and Accessories NL7",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/hsiner-202606-01-bubble-humidifier-oxygen-therapy-and-accessories-nl7",
+      "description": "Hsiner Co., Ltd. heeft een serieuze melding ontvangen in het kader van de waakzaamheidsprocedures met betrekking tot een geïsoleerd incident int een thuiszorgsituatie in België (AFMPS Rapportnr: 44631). De fles van de bellenbevochtiger vertoonde...",
+      "pub_date": "2026-08-21T11:15:00+00:00"
+    },
+    {
+      "id": "0b4ac30decd3",
+      "guid": "doc-6a882f7111495c07b4d889c2",
+      "title_raw": "Remel Europe Ltd-FSN-2026-007 Remel Europe Ltd-Neisseria meningitidis Gp C 2ml VL",
+      "company": "Remel Europe Ltd",
+      "reference_code": "FSN-2026",
+      "apparatus_name": "007 Remel Europe Ltd-Neisseria meningitidis Gp C 2ml VL",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/remel-europe-ltd-fsn-2026-007-remel-europe-ltd-neisseria-meningitidis-gp-c-2ml-vl",
+      "description": "A technical investigation as a result of a customer complaint has determined that the following lots of R30166901 Neisseria meningitidis Gp C 2ml/VL are not performing to IFU criteria not positive to ATCC13102 within 60 Seconds.",
+      "pub_date": "2026-08-21T10:50:00+00:00"
+    },
     {
       "id": "bec25f320047",
       "guid": "doc-6a8827939f0bb5838ade48b6",
