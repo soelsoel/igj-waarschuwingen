@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-21T08:57:34+00:00",
-  "count": 87,
+  "generated_at": "2026-08-21T09:52:01+00:00",
+  "count": 89,
   "warnings": [
+    {
+      "id": "828876757075",
+      "guid": "doc-6a881ee79f0bb51b04de483f",
+      "title_raw": "Nova Biomedical Cooporation-CAN 02-2026-StatStrip (Gen2) Glucose and Glucose/ß-Ketone Hospital Meter System",
+      "company": "Nova Biomedical Cooporation",
+      "reference_code": "CAN 02",
+      "apparatus_name": "2026-StatStrip (Gen2) Glucose and Glucose/ß-Ketone Hospital Meter System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/nova-biomedical-cooporation-can-02-2026-statstrip-gen2-glucose-and-glucose-ss-ketone-hospital-meter-system",
+      "description": "Nova Biomedical heeft enkele meldingen van klanten ontvangen waarin wordt aangegeven dat bij het scannen van barcodes met patiënt-ID's eerdere patiëntgegevens op het scherm van de meter kunnen blijven staan, wat, indien geaccepteerd, ertoe kan...",
+      "pub_date": "2026-08-21T09:47:00+00:00"
+    },
+    {
+      "id": "ffd66fb16b47",
+      "guid": "doc-6a8813199f0bb504d3de4727",
+      "title_raw": "Philips Image Guided Therapy Corporation, Colorado-C&R 2026-IG-IGTD-003-IntraSight Plus",
+      "company": "Philips Image Guided Therapy Corporation",
+      "reference_code": "",
+      "apparatus_name": "Colorado-C&R 2026-IG-IGTD-003-IntraSight Plus",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/philips-image-guided-therapy-corporation-colorado-cr-2026-ig-igtd-003-intrasight-plus",
+      "description": "Philips is zich bewust van een mogelijk veiligheidsprobleem dat IntraSight Plus, softwareversie 6.0.4., beïnvloedt, waarbij bepaalde werklijstconfiguraties kunnen resulteren in dubbele onderzoek-ID's die aan meerdere patiënten worden toegewezen.",
+      "pub_date": "2026-08-21T08:57:00+00:00"
+    },
     {
       "id": "7787633c596b",
       "guid": "doc-6a8810a69f0bb5ee4bde46f2",
