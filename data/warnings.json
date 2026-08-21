@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-21T09:52:01+00:00",
-  "count": 89,
+  "generated_at": "2026-08-21T10:47:18+00:00",
+  "count": 90,
   "warnings": [
+    {
+      "id": "bec25f320047",
+      "guid": "doc-6a8827939f0bb5838ade48b6",
+      "title_raw": "Winncare Nordic ApS-DK01069005-Cart for Luna X5",
+      "company": "Winncare Nordic ApS",
+      "reference_code": "DK01069005",
+      "apparatus_name": "Cart for Luna X5",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/21/winncare-nordic-aps-dk01069005-cart-for-luna-x5",
+      "description": "Winncare Nordic ApS wishes to draw your attention to important safety information regarding the cart intended for use with Winncare Nordic ApS ceiling lifts in portable/mobile configuration. This Field Safety Notice has been issued following...",
+      "pub_date": "2026-08-21T10:24:00+00:00"
+    },
     {
       "id": "828876757075",
       "guid": "doc-6a881ee79f0bb51b04de483f",
