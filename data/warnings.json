@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-26T09:57:06+00:00",
-  "count": 97,
+  "generated_at": "2026-08-26T10:51:21+00:00",
+  "count": 98,
   "warnings": [
+    {
+      "id": "3a3bafb036bd",
+      "guid": "doc-6a8ebbe79f0bb5afbdde71a4",
+      "title_raw": "MEDCAPTAIN LIFE SCIENCE CO LTD.-FSCA-202606-001-Disposable Infusion Set",
+      "company": "MEDCAPTAIN LIFE SCIENCE CO LTD.",
+      "reference_code": "FSCA-202606",
+      "apparatus_name": "001-Disposable Infusion Set",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/26/medcaptain-life-science-co-ltd.-fsca-202606-001-disposable-infusion-set",
+      "description": "MEDCAPTAIN LIFE SCIENCE CO., LTD. heeft als wettelijke fabrikant meldingen ontvangen waaruit blijkt dat de mannelijke luerverbinding van de DB neXus infuussets moeilijk los te koppelen kan zijn en kan barsten of breken.",
+      "pub_date": "2026-08-26T10:06:00+00:00"
+    },
     {
       "id": "66a674010584",
       "guid": "doc-6a8eb50711495c817ed8afde",
