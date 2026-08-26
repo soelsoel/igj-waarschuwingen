@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-21T11:41:02+00:00",
-  "count": 93,
+  "generated_at": "2026-08-26T09:57:06+00:00",
+  "count": 97,
   "warnings": [
+    {
+      "id": "66a674010584",
+      "guid": "doc-6a8eb50711495c817ed8afde",
+      "title_raw": "Heraeus Medical GmbH-201281227-PALACOS RG pro,PALACOS MVG pro,COPAL GC pro",
+      "company": "Heraeus Medical GmbH",
+      "reference_code": "201281227",
+      "apparatus_name": "PALACOS RG pro,PALACOS MVG pro,COPAL GC pro",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/26/heraeus-medical-gmbh-201281227-palacos-rg-propalacos-mvg-procopal-gc-pro",
+      "description": "Heraeus Medical meldt na het in de handel brengen zijn wij op de hoogte gebracht van enkele geïsoleerde gevallen waarin vloeibaar monomeer uit het pro-systeem is gelekt.",
+      "pub_date": "2026-08-26T09:42:00+00:00"
+    },
+    {
+      "id": "165526346940",
+      "guid": "doc-6a8eb2e611495ceafad8af86",
+      "title_raw": "Trinity Biotech-R003 26-Oxalate Reagent B PN 591-2, Oxalate Kit 100 Assays PN 591-D containing Oxalate Reagent B",
+      "company": "Trinity Biotech-R003 26-Oxalate Reagent B PN 591-2",
+      "reference_code": "",
+      "apparatus_name": "Oxalate Kit 100 Assays PN 591-D containing Oxalate Reagent B",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/26/trinity-biotech-r003-26-oxalate-reagent-b-pn-591-2-oxalate-kit-100-assays-pn-591-d-containing-oxalate-reagent-b",
+      "description": "Performance variability identified within Oxalate Reagent B Lot 2500711, between individual vials, may result in a negative bias and the underestimation of elevated oxalate concentrations. The performance variability reported was identified when...",
+      "pub_date": "2026-08-26T09:29:00+00:00"
+    },
+    {
+      "id": "41ed913c384a",
+      "guid": "doc-6a8eb00711495ceafad8af5e",
+      "title_raw": "Promedon S.A.-CAPA C26100 MDSS Ref.MD26.172-VICTO",
+      "company": "Promedon S.A.",
+      "reference_code": "CAPA C26100 MDSS Ref.MD26.172",
+      "apparatus_name": "VICTO",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/26/promedon-s.a.-capa-c26100-mdss-ref.md26.172-victo",
+      "description": "Following internal monitoring and technical evaluation of Victo, we have identified a potential product performance issue that could potentially lead to a gradual loss of Victo’s performance in the medium term, affecting the level of continence...",
+      "pub_date": "2026-08-26T09:15:00+00:00"
+    },
+    {
+      "id": "97d47d41af1c",
+      "guid": "doc-6a8eabdb9f0bb53ec4de707e",
+      "title_raw": "Boston Scientific Corporation-97654746-FA- Imager II Angiographic Catheter",
+      "company": "Boston Scientific Corporation",
+      "reference_code": "97654746",
+      "apparatus_name": "FA- Imager II Angiographic Catheter",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/26/boston-scientific-corporation-97654746-fa-imager-ii-angiographic-catheter",
+      "description": "Boston Scientific start een terugroepactie voor ImagerTM II angiografische katheters ('katheters') vanwege een fabricagefout in de kathetertip. Deze heeft vastgesteld dat deze katheters zijn geproduceerd met een verlaagd gehalte aan stabilisatoren...",
+      "pub_date": "2026-08-26T09:02:00+00:00"
+    },
     {
       "id": "97990d0bcb0a",
       "guid": "doc-6a8838a29f0bb52d6cde497a",
