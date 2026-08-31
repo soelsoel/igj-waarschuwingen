@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-26T10:51:21+00:00",
-  "count": 98,
+  "generated_at": "2026-08-31T20:04:23+00:00",
+  "count": 105,
   "warnings": [
+    {
+      "id": "30842cb35981",
+      "guid": "doc-6a95a80c9f0bb55e5f6e5ecd",
+      "title_raw": "Cardiac Pacemakers, Inc., a subsidiary of Boston Scientific Corporation-97627645-FA-LATITUDE Clarity Data Management System",
+      "company": "Cardiac Pacemakers",
+      "reference_code": "Inc.",
+      "apparatus_name": "a subsidiary of Boston Scientific Corporation-97627645-FA-LATITUDE Clarity Data Management System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/cardiac-pacemakers-inc.-a-subsidiary-of-boston-scientific-corporation-97627645-fa-latitude-clarity-data-management-system",
+      "description": "Boston Scientific informeert u over een mogelijke vertraging in meldingen van AF-burdenwaarschuwingen binnen de LATITUDE™ Clarity-serversoftware die de LUX-Dx™-familie van ICM's ondersteunt. Dit gedrag met vertraagde meldingen door LATITUDE...",
+      "pub_date": "2026-08-31T16:12:00+00:00"
+    },
+    {
+      "id": "9e2cc498ff51",
+      "guid": "doc-6a95a59c11495c0f4bc6c7de",
+      "title_raw": "GS Elektromedizinische Geräte G. Stemple GmbH-FSN-034-Li-Ion Rechargeable Battery 28.8V 84.9Wh",
+      "company": "GS Elektromedizinische Geräte G. Stemple GmbH",
+      "reference_code": "FSN-034",
+      "apparatus_name": "Li-Ion Rechargeable Battery 28.8V 84.9Wh",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/gs-elektromedizinische-gerate-g.-stemple-gmbh-fsn-034-li-ion-rechargeable-battery-28.8v-84.9wh",
+      "description": "Based on investigations, it was determined that some of your batteries may be affected and have an increased risk of unexpected failure. According to the manufacturer, approximately 3% of the listed batteries may develop an electrical defect. The...",
+      "pub_date": "2026-08-31T16:01:00+00:00"
+    },
+    {
+      "id": "5bde6f6d8d0f",
+      "guid": "doc-6a95a2cb11495c960dc6c7d3",
+      "title_raw": "GE Medical Systems Information Technologies, Inc.-FMI 36170-Portrait Core Services",
+      "company": "GE Medical Systems Information Technologies",
+      "reference_code": "",
+      "apparatus_name": "Inc.-FMI 36170-Portrait Core Services",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/ge-medical-systems-information-technologies-inc.-fmi-36170-portrait-core-services",
+      "description": "GE HealthCare has become aware that Portrait Core Services SW V1.2.0 release, which is a component of Portrait Mobile Monitoring Solution, contains a software security vulnerability that can allow a malicious actor with access to the hospital...",
+      "pub_date": "2026-08-31T15:45:00+00:00"
+    },
+    {
+      "id": "24620f4ddb14",
+      "guid": "doc-6a959f2611495ced8ac6c7c8",
+      "title_raw": "GE Medical Systems Information Technologies, Inc.-36173-CSCS V3 MAS800 Desktop,CSCS V3 MAI800 Integrated",
+      "company": "GE Medical Systems Information Technologies",
+      "reference_code": "",
+      "apparatus_name": "Inc.-36173-CSCS V3 MAS800 Desktop,CSCS V3 MAI800 Integrated",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/ge-medical-systems-information-technologies-inc.-36173-cscs-v3-mas800-desktopcscs-v3-mai800-integrated",
+      "description": "GE HealthCare has become aware that the Carescape Central Station (CSCS) V3.0.x may not resume patient monitoring for at least 3 minutes following a system restart. This situation can arise only when the Allow list database is corrupted message is...",
+      "pub_date": "2026-08-31T15:34:00+00:00"
+    },
+    {
+      "id": "83215ff79b6e",
+      "guid": "doc-6a959d3e11495caef4c6c7bd",
+      "title_raw": "Datex-Ohmeda, Inc.-FMI 34147-Aisys and AisysCS2",
+      "company": "Datex-Ohmeda",
+      "reference_code": "",
+      "apparatus_name": "Inc.-FMI 34147-Aisys and AisysCS2",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/datex-ohmeda-inc.-fmi-34147-aisys-and-aisyscs2",
+      "description": "GE HealthCare has become aware that Aisys CS2, Aisys CS2 with Et Control and S/5 Aisys Anesthesia Delivery Systems (see Affected Products List in this letter), containing certain electronic gas mixer assemblies, can automatically transition to...",
+      "pub_date": "2026-08-31T15:26:00+00:00"
+    },
+    {
+      "id": "92a1223e9cf9",
+      "guid": "doc-6a959b3311495cc75ac6c79f",
+      "title_raw": "Drägerwerk AG and Co. KGaA-PR175864-VentStar Resus Neo, VentStar Resuscitaire",
+      "company": "Drägerwerk AG and Co. KGaA-PR175864-VentStar Resus Neo",
+      "reference_code": "",
+      "apparatus_name": "VentStar Resuscitaire",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/dragerwerk-ag-and-co.-kgaa-pr175864-ventstar-resus-neo-ventstar-resuscitaire",
+      "description": "As part of our global market monitoring, we have become aware of cases in which obvious cracks in the hose of our VentStar Resus Neo and VentStar Resuscitaire were detected by the users prior to use. In no case we were informed of any negative...",
+      "pub_date": "2026-08-31T15:17:00+00:00"
+    },
+    {
+      "id": "8cf7fbaa900c",
+      "guid": "doc-6a95a99a11495c8283c6c7ec",
+      "title_raw": "Covidien IIc  Auto Suture Structural Balloon Trocar Auto Suture Blunt Tip Trocar",
+      "company": "Covidien IIc  Auto Suture Structural Balloon Trocar Auto Suture Blunt Tip Trocar",
+      "reference_code": "",
+      "apparatus_name": "Covidien IIc  Auto Suture Structural Balloon Trocar Auto Suture Blunt Tip Trocar",
+      "link": "https://www.igj.nl/documenten/fsn-2026/08/31/covidien-iic-auto-suture-structural-balloon-trocar.-auto-suture-blunt-tip-trocar",
+      "description": "We hebben meldingen ontvangen van incidenten met de Covidien Auto Suture™-trocar en Auto Suture™ -trocar met stompe punt, waarbij werd gemeld dat de trocartafdichting (klep) losraakte bij gebruik van de trocart met bepaalde meshproducten. Dit...",
+      "pub_date": "2026-08-30T22:00:00+00:00"
+    },
     {
       "id": "3a3bafb036bd",
       "guid": "doc-6a8ebbe79f0bb5afbdde71a4",
