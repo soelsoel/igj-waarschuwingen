@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-01T10:05:46+00:00",
-  "count": 106,
+  "generated_at": "2026-09-01T14:53:08+00:00",
+  "count": 107,
   "warnings": [
+    {
+      "id": "d1215afc8974",
+      "guid": "doc-6a96bf2711495ccc68c6cf11",
+      "title_raw": "GE Healthcare Finland Oy-FMI 38018-Centricity High Acuity Anesthesia / Critical Care",
+      "company": "GE Healthcare Finland Oy",
+      "reference_code": "FMI 38018",
+      "apparatus_name": "Centricity High Acuity Anesthesia / Critical Care",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/01/ge-healthcare-finland-oy-fmi-38018-centricity-high-acuity-anesthesia-critical-care",
+      "description": "GE HealthCare has become aware of two potential issues with certain CHA systems. 1) Order and Recording Summary component used in displays and printed reports in CHA applications 2) Flexible Order Summary printout component.",
+      "pub_date": "2026-09-01T12:03:00+00:00"
+    },
     {
       "id": "8aa673e1647a",
       "guid": "doc-6a96730611495cba4cc6c8db",
