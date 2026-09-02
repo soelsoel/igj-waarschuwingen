@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:37:07+00:00",
-  "count": 108,
+  "generated_at": "2026-09-02T14:29:06+00:00",
+  "count": 110,
   "warnings": [
     {
       "id": "863366990cf6",
@@ -11,6 +11,28 @@
       "apparatus_name": "Medtronic MiniMed  MiniMed 640G Insulin Pump and MiniMed 670G In",
       "link": "https://www.igj.nl/documenten/fsn-2026/09/02/medtronic-minimed-minimed-640g-insulin-pump-and-minimed-670g-in",
       "description": "Een intern onderzoek wees uit dat sommige leenpompen die aan klanten in Europa werden geleverd, mogelijk zijn gereinigd met producten die schade kunnen veroorzaken aan de behuizing of het toetsenbord van de pomp, waardoor mogelijk vocht de interne...",
+      "pub_date": "2026-09-01T22:00:00+00:00"
+    },
+    {
+      "id": "9362aa1b26e5",
+      "guid": "doc-6a98012a11495c0cf0c6da7a",
+      "title_raw": "ICU Medical Inc MA2613 CADD Medication Cassette Reservoirs with NRFit",
+      "company": "ICU Medical Inc MA2613 CADD Medication Cassette Reservoirs with NRFit",
+      "reference_code": "",
+      "apparatus_name": "ICU Medical Inc MA2613 CADD Medication Cassette Reservoirs with NRFit",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/02/icu-medical-inc-ma2613-cadd-medication-cassette-reservoirs-with-nrfit",
+      "description": "Bij bepaalde reservoirs kan er vloeistoflekkage optreden bij de verbinding tussen de connector en de slang.",
+      "pub_date": "2026-09-01T22:00:00+00:00"
+    },
+    {
+      "id": "b66ee5c6d2e8",
+      "guid": "doc-6a98037211495c7331c6dac2",
+      "title_raw": "Gyrus ACMI Inc Olympus POWERSEAL 5mm diameter 23cm long Curve",
+      "company": "Gyrus ACMI Inc Olympus POWERSEAL 5mm diameter 23cm long Curve",
+      "reference_code": "",
+      "apparatus_name": "Gyrus ACMI Inc Olympus POWERSEAL 5mm diameter 23cm long Curve",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/02/gyrus-acmi-inc-olympus-powerseal-5mm-diameter-23cm-long-curve",
+      "description": "Olympus determined that the affected lot listed above may contain a labelling discrepancy.",
       "pub_date": "2026-09-01T22:00:00+00:00"
     },
     {
