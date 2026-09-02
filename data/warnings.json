@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-01T14:53:08+00:00",
-  "count": 107,
+  "generated_at": "2026-09-02T09:37:07+00:00",
+  "count": 108,
   "warnings": [
+    {
+      "id": "863366990cf6",
+      "guid": "doc-6a97c26c11495c346cc6d4fc",
+      "title_raw": "Medtronic MiniMed  MiniMed 640G Insulin Pump and MiniMed 670G In",
+      "company": "Medtronic MiniMed  MiniMed 640G Insulin Pump and MiniMed 670G In",
+      "reference_code": "",
+      "apparatus_name": "Medtronic MiniMed  MiniMed 640G Insulin Pump and MiniMed 670G In",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/02/medtronic-minimed-minimed-640g-insulin-pump-and-minimed-670g-in",
+      "description": "Een intern onderzoek wees uit dat sommige leenpompen die aan klanten in Europa werden geleverd, mogelijk zijn gereinigd met producten die schade kunnen veroorzaken aan de behuizing of het toetsenbord van de pomp, waardoor mogelijk vocht de interne...",
+      "pub_date": "2026-09-01T22:00:00+00:00"
+    },
     {
       "id": "d1215afc8974",
       "guid": "doc-6a96bf2711495ccc68c6cf11",
