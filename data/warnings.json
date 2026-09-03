@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-02T14:29:06+00:00",
-  "count": 110,
+  "generated_at": "2026-09-03T09:49:14+00:00",
+  "count": 111,
   "warnings": [
+    {
+      "id": "ef5e5c908bb4",
+      "guid": "doc-6a993e299f0bb5cd376e7a9f",
+      "title_raw": "Bausch and Lomb Incorporated EyeFill C-B Cohesive Ophthalmic Viscoelastic Device",
+      "company": "Bausch and Lomb Incorporated EyeFill C",
+      "reference_code": "",
+      "apparatus_name": "B Cohesive Ophthalmic Viscoelastic Device",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/03/bausch-and-lomb-incorporated-eyefill-c-b-cohesive-ophthalmic-viscoelastic-device",
+      "description": "Deze terugroepactie is een reactie op klachten (intern referentienummer 1486262) van twee klanten dat sommige blisterverpakkingen met de voorgevulde spuiten beschadigd waren, waardoor de steriliteit van het product in gevaar zou kunnen komen.",
+      "pub_date": "2026-09-02T22:00:00+00:00"
+    },
     {
       "id": "863366990cf6",
       "guid": "doc-6a97c26c11495c346cc6d4fc",
