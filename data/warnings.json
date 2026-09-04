@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-03T14:34:04+00:00",
-  "count": 112,
+  "generated_at": "2026-09-04T14:21:25+00:00",
+  "count": 115,
   "warnings": [
+    {
+      "id": "4e73bd697061",
+      "guid": "doc-6a9a99a69f0bb5dba66e85d7",
+      "title_raw": "Mirion Technologies Inc Captus 4000e Thyroid Uptake System",
+      "company": "Mirion Technologies Inc Captus 4000e Thyroid Uptake System",
+      "reference_code": "",
+      "apparatus_name": "Mirion Technologies Inc Captus 4000e Thyroid Uptake System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/04/mirion-technologies-inc.-captus-4000e-thyroid-uptake-system",
+      "description": "Capintec received notifications of unexpected movement of the Captus 4000e arm and collimator.  After evaluating the failed components, it was determined two potential failures may exist.",
+      "pub_date": "2026-09-03T22:00:00+00:00"
+    },
+    {
+      "id": "ae6fa6df17e4",
+      "guid": "doc-6a9a9dee11495cf76ac6f0ae",
+      "title_raw": "bioMerieux SA ARGENE ENTEROVIRUS R GENE",
+      "company": "bioMerieux SA ARGENE ENTEROVIRUS R GENE",
+      "reference_code": "",
+      "apparatus_name": "bioMerieux SA ARGENE ENTEROVIRUS R GENE",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/04/biomerieux-sa-argene-enterovirus-r-gene",
+      "description": "bioMérieux identified, during internal monitoring, a reduced sensitivity issue for Enterovirus C-105 leading to a potential false negative result when using ENTEROVIRUS R GENE® Reference 69-005B.",
+      "pub_date": "2026-09-03T22:00:00+00:00"
+    },
+    {
+      "id": "8df3e37f906d",
+      "guid": "doc-6a9a9bc111495cd4d5c6f095",
+      "title_raw": "W L Gore and Associates Gore Viabahin Endoprosthesis with Heparin Propate",
+      "company": "W L Gore and Associates Gore Viabahin Endoprosthesis with Heparin Propate",
+      "reference_code": "",
+      "apparatus_name": "W L Gore and Associates Gore Viabahin Endoprosthesis with Heparin Propate",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/04/w-l-gore-and-associates-gore-viabahin-endoprosthesis-with-heparin-propate",
+      "description": "Gore heeft bij kwaliteitscontroletests vastgesteld dat sommige VIABAHN® hulpmiddelen zijn verwerkt met apparatuur die buiten het gevalideerde bereik functioneerde, wat heeft geleid tot een onjuiste bevestigingslocatie van de distale tip op de...",
+      "pub_date": "2026-09-03T22:00:00+00:00"
+    },
     {
       "id": "ef5e5c908bb4",
       "guid": "doc-6a993e299f0bb5cd376e7a9f",
