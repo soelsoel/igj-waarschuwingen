@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-04T14:21:25+00:00",
-  "count": 115,
+  "generated_at": "2026-09-07T16:26:43+00:00",
+  "count": 119,
   "warnings": [
+    {
+      "id": "66fc2be39759",
+      "guid": "doc-6a9ebf4c9f0bb5baac6e922e",
+      "title_raw": "Pharmico Medical Kft UroDapter Ialuadapter",
+      "company": "Pharmico Medical Kft UroDapter Ialuadapter",
+      "reference_code": "",
+      "apparatus_name": "Pharmico Medical Kft UroDapter Ialuadapter",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/07/pharmico-medical-kft-urodapter-ialuadapter",
+      "description": "De afwijking werd door Pharmico Medical Kft. vastgesteld tijdens de documentatiebeoordeling voorafgaand aan de toezichtsaudit van de aangemelde instantie. Vier versies van de auditdocumentatie van de klant (IBSA), gedateerd 9 juni 2026 en via de...",
+      "pub_date": "2026-09-06T22:00:00+00:00"
+    },
+    {
+      "id": "9c1c52d3dbe3",
+      "guid": "doc-6a9ebc9a9f0bb5b86d6e91d3",
+      "title_raw": "Becton Dickinson and Company BD Phoenix CPO Detect 6 well panel",
+      "company": "Becton Dickinson and Company BD Phoenix CPO Detect 6 well panel",
+      "reference_code": "",
+      "apparatus_name": "Becton Dickinson and Company BD Phoenix CPO Detect 6 well panel",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/07/becton-dickinson-and-company-bd-phoenix-cpo-detect-6-well-panel",
+      "description": "BD heeft klachten van klanten ontvangen over tekortkomingen in de kwaliteitscontrole met Klebsiella pneumoniae ATCC BAA-1705 bij gebruik van de CPO Ambler-classificatiefunctie.",
+      "pub_date": "2026-09-06T22:00:00+00:00"
+    },
+    {
+      "id": "d5b7e5ca0721",
+      "guid": "doc-6a9eba0b11495cee09c6fd89",
+      "title_raw": "Microgenics Corporation Thermo Fisher Scientific MAS Omni IMMUNE PRO",
+      "company": "Microgenics Corporation Thermo Fisher Scientific MAS Omni IMMUNE PRO",
+      "reference_code": "",
+      "apparatus_name": "Microgenics Corporation Thermo Fisher Scientific MAS Omni IMMUNE PRO",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/07/microgenics-corporation-thermo-fisher-scientific-mas-omni-immune-pro",
+      "description": "Microgenics Corporation is initiating FSCA for the product MAS® Omni•IMMUNETM PRO Liquid Assayed Integrated Immunoassay Control because we have received complaints from customers reporting vial-to-vial variability resulting in low Parathyroid...",
+      "pub_date": "2026-09-06T22:00:00+00:00"
+    },
+    {
+      "id": "2d626851d9ab",
+      "guid": "doc-6a9eb84211495c9dbac6fd51",
+      "title_raw": "Olympus Medical Systems Corporation High Flow Insufflation Unit",
+      "company": "Olympus Medical Systems Corporation High Flow Insufflation Unit",
+      "reference_code": "",
+      "apparatus_name": "Olympus Medical Systems Corporation High Flow Insufflation Unit",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/07/olympus-medical-systems-corporation-high-flow-insufflation-unit",
+      "description": "Olympus heeft een toename van klachten over ‘uitval’ van het voorpaneel van de UHI-4 vastgesteld, waarbij het display op het voorpaneel onverwacht wordt uitgeschakeld en de toevoer van lucht (insufflatie) stopt. Tijdens een onderzoek is gebleken...",
+      "pub_date": "2026-09-06T22:00:00+00:00"
+    },
     {
       "id": "4e73bd697061",
       "guid": "doc-6a9a99a69f0bb5dba66e85d7",
