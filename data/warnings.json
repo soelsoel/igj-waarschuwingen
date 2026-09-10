@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-07T16:26:43+00:00",
-  "count": 119,
+  "generated_at": "2026-09-10T14:25:53+00:00",
+  "count": 121,
   "warnings": [
+    {
+      "id": "ab833484ddd7",
+      "guid": "doc-6aa2ba7111495c0e49c72785",
+      "title_raw": "NOxBOX Ltd NOxBOXi",
+      "company": "NOxBOX Ltd NOxBOXi",
+      "reference_code": "",
+      "apparatus_name": "NOxBOX Ltd NOxBOXi",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/10/noxbox-ltd-noxboxi",
+      "description": "NOxBOX has identified an increased trend in complaints for oxygen leaks within the NOxMixer module of the NOxBOXi device due to failure of the tubing or tubing connection.",
+      "pub_date": "2026-09-09T22:00:00+00:00"
+    },
+    {
+      "id": "5d2a59bea8bf",
+      "guid": "doc-6aa2b7fa9f0bb51a5f6eb807",
+      "title_raw": "Medivators Inc Rapicide",
+      "company": "Medivators Inc Rapicide",
+      "reference_code": "",
+      "apparatus_name": "Medivators Inc Rapicide",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/10/medivators-inc.-rapicide",
+      "description": "STERIS identified through Customer complaints that a small number of RAPICIDE PA Part A bottles within certain lots may begin to bulge or expand over time.",
+      "pub_date": "2026-09-09T22:00:00+00:00"
+    },
     {
       "id": "66fc2be39759",
       "guid": "doc-6a9ebf4c9f0bb5baac6e922e",
