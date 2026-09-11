@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:40:44+00:00",
-  "count": 122,
+  "generated_at": "2026-09-11T14:25:33+00:00",
+  "count": 124,
   "warnings": [
     {
       "id": "4e51c0af23be",
@@ -11,6 +11,28 @@
       "apparatus_name": "Intervascular SAS Intergard Synergy and Intergard Standard",
       "link": "https://www.igj.nl/documenten/fsn-2026/09/11/intervascular-sas-intergard-synergy-and-intergard-standard",
       "description": "A defect was identified within the body of Intergard Knitted straight vascular grafts from specific textile batches. The defect in question is small loops of yarn within the lumen of the grafts, which are not visible from the external side of the...",
+      "pub_date": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "id": "e701991b8541",
+      "guid": "doc-6aa3d1de11495c20ddc72ae0",
+      "title_raw": "Bausch and Lomb Incorporated EyeFill C B Cohesive Ophthalmic Viscoelastic Device",
+      "company": "Bausch and Lomb Incorporated EyeFill C B Cohesive Ophthalmic Viscoelastic Device",
+      "reference_code": "",
+      "apparatus_name": "Bausch and Lomb Incorporated EyeFill C B Cohesive Ophthalmic Viscoelastic Device",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/11/bausch-and-lomb-incorporated-eyefill-c-b-cohesive-ophthalmic-viscoelastic-device",
+      "description": "Deze terugroepactie is een reactie op klachten (intern referentienummer 1486262) van twee klanten dat sommige blisterverpakkingen met de voorgevulde spuiten beschadigd waren, waardoor de steriliteit van het product in gevaar zou kunnen komen.",
+      "pub_date": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "id": "72432bf1eaf0",
+      "guid": "doc-6aa3cf199f0bb5b3236ebb4e",
+      "title_raw": "Heidelberg Engineering GmbH SPECTRALIS",
+      "company": "Heidelberg Engineering GmbH SPECTRALIS",
+      "reference_code": "",
+      "apparatus_name": "Heidelberg Engineering GmbH SPECTRALIS",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/11/heidelberg-engineering-gmbh-spectralis",
+      "description": "There is a possibility that the castor wheels of the Flex stand are not properly attached. The wheels may come loose when the Flex Module is being pulled or pushed during movement or transportation, affecting the stability of the stand.",
       "pub_date": "2026-09-10T22:00:00+00:00"
     },
     {
