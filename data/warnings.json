@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-10T14:25:53+00:00",
-  "count": 121,
+  "generated_at": "2026-09-11T09:40:44+00:00",
+  "count": 122,
   "warnings": [
+    {
+      "id": "4e51c0af23be",
+      "guid": "doc-6aa3c7b19f0bb500ce6ebb35",
+      "title_raw": "Intervascular SAS Intergard Synergy and Intergard Standard",
+      "company": "Intervascular SAS Intergard Synergy and Intergard Standard",
+      "reference_code": "",
+      "apparatus_name": "Intervascular SAS Intergard Synergy and Intergard Standard",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/11/intervascular-sas-intergard-synergy-and-intergard-standard",
+      "description": "A defect was identified within the body of Intergard Knitted straight vascular grafts from specific textile batches. The defect in question is small loops of yarn within the lumen of the grafts, which are not visible from the external side of the...",
+      "pub_date": "2026-09-10T22:00:00+00:00"
+    },
     {
       "id": "ab833484ddd7",
       "guid": "doc-6aa2ba7111495c0e49c72785",
