@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:25:33+00:00",
-  "count": 124,
+  "generated_at": "2026-09-11T18:32:04+00:00",
+  "count": 126,
   "warnings": [
     {
       "id": "4e51c0af23be",
@@ -33,6 +33,28 @@
       "apparatus_name": "Heidelberg Engineering GmbH SPECTRALIS",
       "link": "https://www.igj.nl/documenten/fsn-2026/09/11/heidelberg-engineering-gmbh-spectralis",
       "description": "There is a possibility that the castor wheels of the Flex stand are not properly attached. The wheels may come loose when the Flex Module is being pulled or pushed during movement or transportation, affecting the stability of the stand.",
+      "pub_date": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "id": "69ba7b076333",
+      "guid": "doc-6aa420ee11495c0e16c72f56",
+      "title_raw": "Philips Medical Systems Nederland B.V. MR systemen met SW versies R5 en R11",
+      "company": "Philips Medical Systems Nederland B.V. MR systemen met SW versies R5 en R11",
+      "reference_code": "",
+      "apparatus_name": "Philips Medical Systems Nederland B.V. MR systemen met SW versies R5 en R11",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/11/philips-medical-systems-nederland-b.v.-mr-systemen-met-sw-versies-r5-en-r11",
+      "description": "Philips is zich bewust geworden van een softwareprobleem waardoor een onderzoek kan worden beëindigd tijdens het beeldreconstructieproces. Als de scanparameters handmatig worden aangepast zodat de reconstructievereisten het beschikbare...",
+      "pub_date": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "id": "433a7b488630",
+      "guid": "doc-6aa41ec411495cbe6dc72f36",
+      "title_raw": "Inogen Inogen Rove 4 Portable Oxygen Concentrator",
+      "company": "Inogen Inogen Rove 4 Portable Oxygen Concentrator",
+      "reference_code": "",
+      "apparatus_name": "Inogen Inogen Rove 4 Portable Oxygen Concentrator",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/11/inogen-inogen-rove-4-portable-oxygen-concentrator",
+      "description": "This action is being taken due to the identification of non-conforming zeolite material due to moisture.",
       "pub_date": "2026-09-10T22:00:00+00:00"
     },
     {
