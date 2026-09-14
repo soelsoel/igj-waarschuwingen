@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-11T18:32:04+00:00",
-  "count": 126,
+  "generated_at": "2026-09-14T12:57:48+00:00",
+  "count": 129,
   "warnings": [
+    {
+      "id": "390f8b7ab76b",
+      "guid": "doc-6aa7ad3b9f0bb586cf6eccdb",
+      "title_raw": "DiaMed GmbH ID DiaCell I II III",
+      "company": "DiaMed GmbH ID DiaCell I II III",
+      "reference_code": "",
+      "apparatus_name": "DiaMed GmbH ID DiaCell I II III",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/14/diamed-gmbh-id-diacell-i-ii-iii",
+      "description": "Bio-Rad identified unexpected weak or borderline positive reactivity with Screening Cell III of ID-DiaCell I-II-III, Batch 133842941/45184.94.1.\nThe issue was initially identified during pre-acceptance testing. At some sites, the observed...",
+      "pub_date": "2026-09-13T22:00:00+00:00"
+    },
+    {
+      "id": "653419b53c37",
+      "guid": "doc-6aa7a9c79f0bb5ac016eccbf",
+      "title_raw": "Instrumentation Laboratory Co HemosIL AcuStar HIT-IgG",
+      "company": "Instrumentation Laboratory Co HemosIL AcuStar HIT",
+      "reference_code": "",
+      "apparatus_name": "IgG",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/14/instrumentation-laboratory-co-hemosil-acustar-hit-igg",
+      "description": "Werfen heeft een prestatieprobleem vastgesteld dat van invloed is op lotnummer B40006 van HemosIL AcuStar HIT-IgG(PF4-H), artikelnummer 0009802028. Uit klantmeldingen is gebleken dat een ongeldige kalibratiecurve werd verkregen en dat in één...",
+      "pub_date": "2026-09-13T22:00:00+00:00"
+    },
+    {
+      "id": "7796286a387f",
+      "guid": "doc-6aa7a7279f0bb591926ecc9d",
+      "title_raw": "Life Technologies Holdings Pte Ltd Applied Biosystems Diomni Software",
+      "company": "Life Technologies Holdings Pte Ltd Applied Biosystems Diomni Software",
+      "reference_code": "",
+      "apparatus_name": "Life Technologies Holdings Pte Ltd Applied Biosystems Diomni Software",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/14/life-technologies-holdings-pte-ltd-applied-biosystems-diomni-software",
+      "description": "Under a specific workflow configuration, manual adjustment of the analysis threshold may unintentionally reset previously configured target-specific baseline start and end values to automatically calculated baseline values.",
+      "pub_date": "2026-09-13T22:00:00+00:00"
+    },
     {
       "id": "4e51c0af23be",
       "guid": "doc-6aa3c7b19f0bb500ce6ebb35",
