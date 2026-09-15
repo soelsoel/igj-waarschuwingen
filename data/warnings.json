@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-14T12:57:48+00:00",
-  "count": 129,
+  "generated_at": "2026-09-15T13:32:37+00:00",
+  "count": 131,
   "warnings": [
+    {
+      "id": "1e7da80259c7",
+      "guid": "doc-6aa93c7b11495cc024c75057",
+      "title_raw": "Olympus Gyrus ACMI Inc SOLTIVE Laser Fiber Products",
+      "company": "Olympus Gyrus ACMI Inc SOLTIVE Laser Fiber Products",
+      "reference_code": "",
+      "apparatus_name": "Olympus Gyrus ACMI Inc SOLTIVE Laser Fiber Products",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/15/olympus-gyrus-acmi-inc-soltive-laser-fiber-products",
+      "description": "Olympus identified and is implementing an alternate material for the strain relief component that will more immediately self-extinguish if it were to ignite.  Olympus is requesting users transition to products incorporating the new strain relief...",
+      "pub_date": "2026-09-14T22:00:00+00:00"
+    },
+    {
+      "id": "785ba9939ef3",
+      "guid": "doc-6aa93a559f0bb55b57b176f9",
+      "title_raw": "Medivators Inc RAPICIDE",
+      "company": "Medivators Inc RAPICIDE",
+      "reference_code": "",
+      "apparatus_name": "Medivators Inc RAPICIDE",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/15/medivators-inc-rapicide",
+      "description": "STERIS heeft via klachten van klanten vastgesteld dat een klein aantal RAPICIDE PA Deel A-flessen binnen bepaalde partijen na verloop van tijd kan uitpuilen of uitzetten. Deel A is het actieve bestanddeel van de chemie dat perazijnzuur creëert,...",
+      "pub_date": "2026-09-14T22:00:00+00:00"
+    },
     {
       "id": "390f8b7ab76b",
       "guid": "doc-6aa7ad3b9f0bb586cf6eccdb",
