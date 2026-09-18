@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-15T13:32:37+00:00",
-  "count": 131,
+  "generated_at": "2026-09-18T14:59:20+00:00",
+  "count": 133,
   "warnings": [
+    {
+      "id": "ca36688a57e1",
+      "guid": "doc-6aad40ec11495ccf4fc7ab41",
+      "title_raw": "Abbott Medical Amplatzer Amulet Left Atrial Appendage Occluder",
+      "company": "Abbott Medical Amplatzer Amulet Left Atrial Appendage Occluder",
+      "reference_code": "",
+      "apparatus_name": "Abbott Medical Amplatzer Amulet Left Atrial Appendage Occluder",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/18/abbott-medical-amplatzer-amulet-left-atrial-appendage-occluder",
+      "description": "De huidige Amulet-IFU bevat een contra-indicatie voor gebruik “waarbij plaatsing van het hulpmiddel intracardiale of intravasculaire structuren zou belemmeren.”",
+      "pub_date": "2026-09-17T22:00:00+00:00"
+    },
+    {
+      "id": "f1c996c35894",
+      "guid": "doc-6aad3e7f9f0bb54913b1c0ac",
+      "title_raw": "Tracoe Medical GmbH Tracheostomy tube non-reinforced non-customized single-use",
+      "company": "Tracoe Medical GmbH Tracheostomy tube non",
+      "reference_code": "reinforced non",
+      "apparatus_name": "customized single-use",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/18/tracoe-medical-gmbh-tracheostomy-tube-non-reinforced-non-customized-single-use",
+      "description": "Tracoe is issuing a Field Safety Notice for the above products as the application bears a very low risk that the silicone sleeve may detach from the guiding catheter when removing the insertion system of the tracheostomy tube.",
+      "pub_date": "2026-09-17T22:00:00+00:00"
+    },
     {
       "id": "1e7da80259c7",
       "guid": "doc-6aa93c7b11495cc024c75057",
