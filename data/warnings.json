@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-18T14:59:20+00:00",
-  "count": 133,
+  "generated_at": "2026-09-21T17:02:50+00:00",
+  "count": 138,
   "warnings": [
+    {
+      "id": "21e16b52941a",
+      "guid": "doc-6ab13aa09f0bb5aed2b1cb18",
+      "title_raw": "Boston Scientific Corporation Direxion en Direxion HI-FLO",
+      "company": "Boston Scientific Corporation Direxion en Direxion HI",
+      "reference_code": "",
+      "apparatus_name": "FLO",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/21/boston-scientific-corporation-direxion-en-direxion-hi-flo",
+      "description": "Boston Scientific start een terugroepactie voor specifieke partijen van DirexionTM- en Direxion HI-FLOTM-microkatheters vanwege een fabricagefout die problemen kan veroorzaken bij het verwijderen van het hulpmiddel uit de beschermring en bij het...",
+      "pub_date": "2026-09-20T22:00:00+00:00"
+    },
+    {
+      "id": "dbab75a66ace",
+      "guid": "doc-6ab1424e11495c9df1c7b809",
+      "title_raw": "GE Healthcare Centricity PACS Enterprise Archive",
+      "company": "GE Healthcare Centricity PACS Enterprise Archive",
+      "reference_code": "",
+      "apparatus_name": "GE Healthcare Centricity PACS Enterprise Archive",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/21/ge-healthcare-centricity-pacs-enterprise-archive",
+      "description": "GE HealthCare has become aware that, under certain conditions, historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong...",
+      "pub_date": "2026-09-20T22:00:00+00:00"
+    },
+    {
+      "id": "5edf20f96514",
+      "guid": "doc-6ab1405511495c611cc7b7ef",
+      "title_raw": "Philips Medical Systems Nederland BV MRsystemen met diffusietensorbeeldvorming",
+      "company": "Philips Medical Systems Nederland BV MRsystemen met diffusietensorbeeldvorming",
+      "reference_code": "",
+      "apparatus_name": "Philips Medical Systems Nederland BV MRsystemen met diffusietensorbeeldvorming",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/21/philips-medical-systems-nederland-bv-mrsystemen-met-diffusietensorbeeldvorming",
+      "description": "Wanneer u scans van diffusietensorimaging (DTI) van een Philips MR-systeem exporteert met\nbehulp van het Enhanced MR DICOM-formaat, bevatten de exporten onjuiste gegevens\n(diffusierichtingen). Als de Enhanced MR DICOM-export wordt gebruikt in...",
+      "pub_date": "2026-09-20T22:00:00+00:00"
+    },
+    {
+      "id": "c2397834098b",
+      "guid": "doc-6ab13e9b11495cfd6ec7b7ce",
+      "title_raw": "Beckman Coulter Ireland Inc iQ200 Series Analyzers and DxU 840m and 850m Iris Analyzers",
+      "company": "Beckman Coulter Ireland Inc iQ200 Series Analyzers and DxU 840m and 850m Iris Analyzers",
+      "reference_code": "",
+      "apparatus_name": "Beckman Coulter Ireland Inc iQ200 Series Analyzers and DxU 840m and 850m Iris Analyzers",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/21/beckman-coulter-ireland-inc-iq200-series-analyzers-and-dxu-840m-850m-iris-analyzers",
+      "description": "Beckman Coulter has received customer complaints about lamina fluid leaks in iQ200 Series Analyzers and DxU 840m/850m Iris Analyzers. Investigation determined that the leaks are caused by a check valve in the rinse line becoming structurally...",
+      "pub_date": "2026-09-20T22:00:00+00:00"
+    },
+    {
+      "id": "b757918bf31a",
+      "guid": "doc-6ab145429f0bb5aed2b1cbc5",
+      "title_raw": "Permobil AB Permobil  Corpus",
+      "company": "Permobil AB Permobil  Corpus",
+      "reference_code": "",
+      "apparatus_name": "Permobil AB Permobil  Corpus",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/21/permobil-ab-permobil-m5-corpus",
+      "description": "Op 12 mei 2025 heeft Permobil vastgesteld dat bij bepaalde M5 Corpus elektrische rolstoelen met Power Platform-firmwareversies tussen 1.27 en\n1.57 de rijblokkeerlogica ontbrak in de firmware, waardoor de rijblokkeerfunctie niet naar behoren werkte.",
+      "pub_date": "2026-09-20T22:00:00+00:00"
+    },
     {
       "id": "ca36688a57e1",
       "guid": "doc-6aad40ec11495ccf4fc7ab41",
