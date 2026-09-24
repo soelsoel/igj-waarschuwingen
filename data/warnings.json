@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-21T17:02:50+00:00",
-  "count": 138,
+  "generated_at": "2026-09-24T19:09:29+00:00",
+  "count": 143,
   "warnings": [
+    {
+      "id": "1fd59bd64e93",
+      "guid": "doc-6ab548e99f0bb5acc6b22446",
+      "title_raw": "PENTAX Medical Corporation Medical Ultrasound Upper GI Endoscope and Water Bottle Assembly",
+      "company": "PENTAX Medical Corporation Medical Ultrasound Upper GI Endoscope and Water Bottle Assembly",
+      "reference_code": "",
+      "apparatus_name": "PENTAX Medical Corporation Medical Ultrasound Upper GI Endoscope and Water Bottle Assembly",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/24/pentax-medical-corporation-pentax-medical-ultrasound-upper-gi-endoscope-and-pentax-water-bottle-assembly",
+      "description": "PENTAX Medical heeft informatie ontvangen over een gemeld overlijden van een patiënt in verband met een casus waarin onbedoeld lucht is binnengedrongen in de ballon die tijdens een endoscopische echografieprocedure aan het distale uiteinde van een...",
+      "pub_date": "2026-09-23T22:00:00+00:00"
+    },
+    {
+      "id": "84f40dfc4f98",
+      "guid": "doc-6ab546e811495cc06ec81fe5",
+      "title_raw": "Dexcom Dexcom G7 iOS CGM App and Dexcom ONE iOS CGM App",
+      "company": "Dexcom Dexcom G7 iOS CGM App and Dexcom ONE iOS CGM App",
+      "reference_code": "",
+      "apparatus_name": "Dexcom Dexcom G7 iOS CGM App and Dexcom ONE iOS CGM App",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/24/dexcom-dexcom-g7-ios-cgm-app-and-dexcom-one-ios-cgm-app",
+      "description": "Er is een softwarefout vastgesteld in app-versies 1.5 tot en met 1.6 die ervoor kan zorgen dat het app-scherm achtereenvolgens de vorige geschatte glucosewaarden (estimated glucose values, EGV’s) en trendpijlen weergeeft voordat de huidige EGV en...",
+      "pub_date": "2026-09-23T22:00:00+00:00"
+    },
+    {
+      "id": "56a346744edf",
+      "guid": "doc-6ab5452811495ce7a2c81fd9",
+      "title_raw": "Sterisets Manufacturing S A CitraLock S 4 procent",
+      "company": "Sterisets Manufacturing S A CitraLock S 4 procent",
+      "reference_code": "",
+      "apparatus_name": "Sterisets Manufacturing S A CitraLock S 4 procent",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/24/sterisets-manufacturing-s-a-citralock-s-4-procent",
+      "description": "Sterisets Manufacturing S.A. is conducting a Field Safety Corrective Action (FSCA) to request the collection and return of specific lot numbers 2507149 and 2509001 of CitraLock Syringe 4%, REF: 3593S2.\nThis action follows the previous FSCA...",
+      "pub_date": "2026-09-23T22:00:00+00:00"
+    },
+    {
+      "id": "038f508c89a0",
+      "guid": "doc-6ab548dc11495c6de4c8203f",
+      "title_raw": "Biomet UK Limited Avantage",
+      "company": "Biomet UK Limited Avantage",
+      "reference_code": "",
+      "apparatus_name": "Biomet UK Limited Avantage",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/24/biomet-uk-limited-avantage",
+      "description": "Biomet UK Ltd is initiating a medical device Field Safety Corrective Action (correction) for the Avantage Cup Gripper. Through the product complaint process, it was identified while using the Avantage Inserter Handles and Grippers during the...",
+      "pub_date": "2026-09-23T22:00:00+00:00"
+    },
+    {
+      "id": "482f2efc6c89",
+      "guid": "doc-6ab5461611495cb4edc81fe1",
+      "title_raw": "Dexcom DEXCOM G7 IOS CGM APP",
+      "company": "Dexcom DEXCOM G7 IOS CGM APP",
+      "reference_code": "",
+      "apparatus_name": "Dexcom DEXCOM G7 IOS CGM APP",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/24/dexcom-dexcom-g7-ios-cgm-app",
+      "description": "In G7 iOS App versie 2.12 zijn alleen kritieke waarschuwingen ontworpen om de instelling Stiltemodus of Focusmodus van de telefoon te overschrijven. Niet-kritische waarschuwingen gedragen zich volgens de instellingen van de telefoon. Doordat u...",
+      "pub_date": "2026-09-23T22:00:00+00:00"
+    },
     {
       "id": "21e16b52941a",
       "guid": "doc-6ab13aa09f0bb5aed2b1cb18",
