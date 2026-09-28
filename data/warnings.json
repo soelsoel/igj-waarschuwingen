@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-24T19:09:29+00:00",
-  "count": 143,
+  "generated_at": "2026-09-28T15:26:58+00:00",
+  "count": 148,
   "warnings": [
+    {
+      "id": "e47eda419c1a",
+      "guid": "doc-6aba56999f0bb50441b247a9",
+      "title_raw": "Philips Medizin Systeme Boblingen GmbH Avalon Fetal Monitor",
+      "company": "Philips Medizin Systeme Boblingen GmbH Avalon Fetal Monitor",
+      "reference_code": "",
+      "apparatus_name": "Philips Medizin Systeme Boblingen GmbH Avalon Fetal Monitor",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/28/philips-medizin-systeme-boblingen-gmbh-avalon-fetal-monitor",
+      "description": "Philips is op de hoogte gebracht van een mogelijk veiligheidsprobleem met de Philips Avalon foetale\nmonitor waarbij de connector van de luidspreker onjuist is gemonteerd. De onjuiste montage van de\nluidsprekerconnector kan ertoe leiden dat kabels...",
+      "pub_date": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "id": "996849970f35",
+      "guid": "doc-6aba1b739f0bb5f8ccb23889",
+      "title_raw": "Cadwell Industries IOMAX Cortical Module",
+      "company": "Cadwell Industries IOMAX Cortical Module",
+      "reference_code": "",
+      "apparatus_name": "Cadwell Industries IOMAX Cortical Module",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/28/cadwell-industries-iomax-cortical-module",
+      "description": "Er is een fabricagedefect geconstateerd in een beperkt aantal IOMAX Cortical Modules. Na een recente wijziging van leverancier voor de printplaatassemblage (PCBA) werd het defect ontdekt tijdens routinematige productieprocessen bij een beperkt...",
+      "pub_date": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "id": "10d88effaedb",
+      "guid": "doc-6aba599c11495c180dc84699",
+      "title_raw": "Philips Medical Systems Nederland BV spectral ct verschillende softwareversies",
+      "company": "Philips Medical Systems Nederland BV spectral ct verschillende softwareversies",
+      "reference_code": "",
+      "apparatus_name": "Philips Medical Systems Nederland BV spectral ct verschillende softwareversies",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/28/philips-medical-systems-nederland-bv-spectral-ct-met-verschillende-softwareversies",
+      "description": "Philips is zich bewust geworden van softwareproblemen die van invloed kunnen zijn op de veiligheid\nen prestaties van uw CT-systeem (systemen). Deze URGENTE veiligheidsmelding is bedoeld om u te\ninformeren over deze problemen en aanbevelingen te...",
+      "pub_date": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "id": "c070b77fce3e",
+      "guid": "doc-6aba1e5c9f0bb5495db238b7",
+      "title_raw": "Shockwave Medical Shockwave Reducer",
+      "company": "Shockwave Medical Shockwave Reducer",
+      "reference_code": "",
+      "apparatus_name": "Shockwave Medical Shockwave Reducer",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/28/shockwave-medical-inc-shockwave-reducer",
+      "description": "The purpose of this letter is to advise you that Shockwave Medical, Inc. (a Johnson & Johnson company) is voluntarily conducting a field safety corrective action on select lots of Shockwave Reducer kits due to the potential for a malfunction of...",
+      "pub_date": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "id": "c58a1b2935de",
+      "guid": "doc-6aba1a1a9f0bb5c792b2387e",
+      "title_raw": "Northern digital in ndi Passive Spheres",
+      "company": "Northern digital in ndi Passive Spheres",
+      "reference_code": "",
+      "apparatus_name": "Northern digital in ndi Passive Spheres",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/28/northern-digital-in-ndi-passive-spheres",
+      "description": "Met deze brief willen we u ervan op de hoogte stellen dat Medtronic specifieke partijen van de Northern Digital Inc (NDI) Passive Sphere en de Medtronic-sets met biopsienaald terugroept vanwege variaties in de reflecterende coating van de bol, wat...",
+      "pub_date": "2026-09-27T22:00:00+00:00"
+    },
     {
       "id": "1fd59bd64e93",
       "guid": "doc-6ab548e99f0bb5acc6b22446",
