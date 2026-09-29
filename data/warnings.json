@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-28T15:26:58+00:00",
-  "count": 148,
+  "generated_at": "2026-09-29T08:29:21+00:00",
+  "count": 150,
   "warnings": [
+    {
+      "id": "eaddae4a4736",
+      "guid": "doc-6abb719f9f0bb5f48db250b7",
+      "title_raw": "HeartSine Technologies HeartSine samaritan PAD devices",
+      "company": "HeartSine Technologies HeartSine samaritan PAD devices",
+      "reference_code": "",
+      "apparatus_name": "HeartSine Technologies HeartSine samaritan PAD devices",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/29/heartsine-technologies-heartsine-samaritan-pad-devices",
+      "description": "Stryker has recently identified an issue with the membrane tail, an internal component, which could cause an intermittent fault.  This failure could occur at any point when the device is holding a charge in preparation to deliver therapy, while...",
+      "pub_date": "2026-09-28T22:00:00+00:00"
+    },
+    {
+      "id": "7b53f21cf7f3",
+      "guid": "doc-6abb6fae9f0bb5082cb25098",
+      "title_raw": "Dexcom G7 iOS CGM App",
+      "company": "Dexcom G7 iOS CGM App",
+      "reference_code": "",
+      "apparatus_name": "Dexcom G7 iOS CGM App",
+      "link": "https://www.igj.nl/documenten/fsn-2026/09/29/dexcom-g7-ios-cgm-app",
+      "description": "In de modus 'Niet storen' vibreren kritische alarmen mogelijk niet zoals verwacht en 'schijfruimte kritisch', 'herstelbare fout' en 'Onherstelbare fout' alarmen klinken mogelijk niet of trillen niet gedurende maximaal 25 minuten. U gebruikt een...",
+      "pub_date": "2026-09-28T22:00:00+00:00"
+    },
     {
       "id": "e47eda419c1a",
       "guid": "doc-6aba56999f0bb50441b247a9",
