@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T13:12:48+00:00",
-  "count": 153,
+  "generated_at": "2026-10-01T23:11:51+00:00",
+  "count": 156,
   "warnings": [
     {
       "id": "63c99fe0dbfd",
@@ -33,6 +33,39 @@
       "apparatus_name": "Metasys Medizintechnik GmbH Green and Clean WK",
       "link": "https://www.igj.nl/documenten/fsn-2026/10/01/metasys-medizintechnik-gmbh-green-and-clean-wk",
       "description": "We are informing you about a nonconformance regarding the labeling of the secondary packaging (outer carton boxes) of GREEN&amp;CLEAN WK, lot DL119455.3. The outer carton has been incorrectly labeled with an expiration date of \"2026-08\".",
+      "pub_date": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "id": "228276af6e00",
+      "guid": "doc-6abeca1f9f0bb5fb90b2b2a7",
+      "title_raw": "Jiaxing Tianhe Pharmaceutical BAL Flush Syringe SS",
+      "company": "Jiaxing Tianhe Pharmaceutical BAL Flush Syringe SS",
+      "reference_code": "",
+      "apparatus_name": "Jiaxing Tianhe Pharmaceutical BAL Flush Syringe SS",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/01/jiaxing-tianhe-pharmaceutical-bal-flush-syringe-ss",
+      "description": "Na een geactualiseerde beoordeling en overleg met BfArM wordt de reikwijdte van de voorzorgsmaatregel gewijzigd. De maatregel houdt verband met het onderzoek naar gemelde infecties met Ralstonia mannitolilytica en het daarmee samenhangende risico...",
+      "pub_date": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "id": "a52dd45fb915",
+      "guid": "doc-6abec78611495c3327c8ca11",
+      "title_raw": "Olympus Medical Systems Corporation Single Use Ligating Device Polyloop",
+      "company": "Olympus Medical Systems Corporation Single Use Ligating Device Polyloop",
+      "reference_code": "",
+      "apparatus_name": "Olympus Medical Systems Corporation Single Use Ligating Device Polyloop",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/01/olympus-medical-systems-corporation-single-use-ligating-device-polyloop",
+      "description": "Olympus is introducing a design change to address complaints that the ligation loop was unable to\nrelease or detach as expected during use, with operation pipe breakage being one of the contributing\nfactors to these complaints.",
+      "pub_date": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "id": "722e3a6c39c7",
+      "guid": "doc-6abec6279f0bb5507bb2b2a3",
+      "title_raw": "Siemens Healthcare GmbH Artis icono",
+      "company": "Siemens Healthcare GmbH Artis icono",
+      "reference_code": "",
+      "apparatus_name": "Siemens Healthcare GmbH Artis icono",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/01/siemens-healthcare-gmbh-artis-icono",
+      "description": "In zeer zeldzame gevallen kan het systeem zijn bewegingsvermogen verliezen na het verhogen van de detectorhefhoogte tot het maximum of minimum. Een herstart herstelt de bewegingscontrole mogelijk niet. Dit probleem kan uitsluitend worden verholpen...",
       "pub_date": "2026-09-30T22:00:00+00:00"
     },
     {
