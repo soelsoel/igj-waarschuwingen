@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-29T08:29:21+00:00",
-  "count": 150,
+  "generated_at": "2026-10-01T13:12:48+00:00",
+  "count": 153,
   "warnings": [
+    {
+      "id": "63c99fe0dbfd",
+      "guid": "doc-6abe1b849f0bb5816eb289d1",
+      "title_raw": "B Braun Medical Inc Safsite Ventil WO Extra Kappe",
+      "company": "B Braun Medical Inc Safsite Ventil WO Extra Kappe",
+      "reference_code": "",
+      "apparatus_name": "B Braun Medical Inc Safsite Ventil WO Extra Kappe",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/01/b-braun-medical-inc-rv1000nc-safsite-ventil-wo-extra-kappe",
+      "description": "B. Braun Medical Inc. heeft naar aanleiding van het onderzoek naar klachten van klanten over lekkage en terugstroming ter hoogte van de Safsite-klep vastgesteld dat er mogelijk sprake is van een probleem waardoor de klep na het loskoppelen van de...",
+      "pub_date": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "id": "558e0f3b78e4",
+      "guid": "doc-6abe158911495cfd29c89c93",
+      "title_raw": "Medica Europe BV Custom Procedure Trays Medica Europe",
+      "company": "Medica Europe BV Custom Procedure Trays Medica Europe",
+      "reference_code": "",
+      "apparatus_name": "Medica Europe BV Custom Procedure Trays Medica Europe",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/01/medica-europe-bv-custom-procedure-trays-medica-europe",
+      "description": "A potential defect has been identified affecting the seal integrity of the header bag of certain Custom Procedure Trays. The seal on the header side (white paper side) may open unintentionally before use, resulting in a compromised sterile...",
+      "pub_date": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "id": "e0178429af40",
+      "guid": "doc-6abe187f11495c2df9c89cdd",
+      "title_raw": "Metasys Medizintechnik GmbH Green and Clean WK",
+      "company": "Metasys Medizintechnik GmbH Green and Clean WK",
+      "reference_code": "",
+      "apparatus_name": "Metasys Medizintechnik GmbH Green and Clean WK",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/01/metasys-medizintechnik-gmbh-green-and-clean-wk",
+      "description": "We are informing you about a nonconformance regarding the labeling of the secondary packaging (outer carton boxes) of GREEN&amp;CLEAN WK, lot DL119455.3. The outer carton has been incorrectly labeled with an expiration date of \"2026-08\".",
+      "pub_date": "2026-09-30T22:00:00+00:00"
+    },
     {
       "id": "eaddae4a4736",
       "guid": "doc-6abb719f9f0bb5f48db250b7",
