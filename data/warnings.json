@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-01T23:11:51+00:00",
-  "count": 156,
+  "generated_at": "2026-10-02T08:34:59+00:00",
+  "count": 161,
   "warnings": [
+    {
+      "id": "b46d7b2963a1",
+      "guid": "doc-6abf53a29f0bb51912b2b30f",
+      "title_raw": "Trust Care AB Let's Get Up and Let's Get Up L",
+      "company": "Trust Care AB Let's Get Up and Let's Get Up L",
+      "reference_code": "",
+      "apparatus_name": "Trust Care AB Let's Get Up and Let's Get Up L",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/02/trust-care-ab-lets-get-up-and-lets-get-up-l",
+      "description": "Trust Care heeft sinds de introductie van het product op de markt in 2023 geen meldingen ontvangen van\nincidenten of letsel in verband met Let's Get Up.",
+      "pub_date": "2026-10-01T22:00:00+00:00"
+    },
+    {
+      "id": "d42260722bfc",
+      "guid": "doc-6abf51f19f0bb5724cb2b2f6",
+      "title_raw": "Schiller Medical Battery for FRED easy",
+      "company": "Schiller Medical Battery for FRED easy",
+      "reference_code": "",
+      "apparatus_name": "Schiller Medical Battery for FRED easy",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/02/schiller-medical-battery-for-fred-easy",
+      "description": "Er zijn meldingen dat meerdere 4-07-0001 batterijen niet functioneren:\nNa installatie in een FRED easy-defibrillator geeft het apparaat een batterijfout aan.",
+      "pub_date": "2026-10-01T22:00:00+00:00"
+    },
+    {
+      "id": "e488d5e12c4c",
+      "guid": "doc-6abf4d4411495ced1dc8ca4a",
+      "title_raw": "Medtronic CareLink SmartSync Micra Application sof",
+      "company": "Medtronic CareLink SmartSync Micra Application sof",
+      "reference_code": "",
+      "apparatus_name": "Medtronic CareLink SmartSync Micra Application sof",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/02/medtronic-carelink-smartsync-micra-vr2.av2-application-sof",
+      "description": "Een onnauwkeurige schatting van de levensduur kan leiden tot onnodige aanpassingen aan het systeem. Tot en met 14 augustus 2026 heeft Medtronic negentien (19) klachten ontvangen over een onjuiste schatting, waarbij er nul (0) meldingen waren van...",
+      "pub_date": "2026-10-01T22:00:00+00:00"
+    },
+    {
+      "id": "14cb4d46f1ce",
+      "guid": "doc-6abf4b1c9f0bb515f9b2b2cb",
+      "title_raw": "Medtronic CareLink SmartSync App",
+      "company": "Medtronic CareLink SmartSync App",
+      "reference_code": "",
+      "apparatus_name": "Medtronic CareLink SmartSync App",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/02/medtronic-carelink-smartsync-device-manager-app",
+      "description": "Er zijn verschillende redenen waarom de Bluetooth-verbinding wordt verbroken. Deze Apple iPadOS-update lost specifieke verbroken verbindingen op als gevolg van gegevensbeschadiging tussen de Bluetooth-controller van de iPad en het...",
+      "pub_date": "2026-10-01T22:00:00+00:00"
+    },
+    {
+      "id": "766d9dea606a",
+      "guid": "doc-6abf50a111495c63a5c8ca54",
+      "title_raw": "Stryker Instruments InterPulse",
+      "company": "Stryker Instruments InterPulse",
+      "reference_code": "",
+      "apparatus_name": "Stryker Instruments InterPulse",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/02/stryker-instruments-usa-interpulse",
+      "description": "The Stryker InterPulse System consists of handpieces, irrigation and suction tips, splash shields and rechargeable battery pack. The irrigation handpieces have a dual speed setting and offer suction and irrigation in one unit. These handpieces...",
+      "pub_date": "2026-10-01T22:00:00+00:00"
+    },
     {
       "id": "63c99fe0dbfd",
       "guid": "doc-6abe1b849f0bb5816eb289d1",
