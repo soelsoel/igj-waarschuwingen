@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-02T08:34:59+00:00",
-  "count": 161,
+  "generated_at": "2026-10-05T09:03:00+00:00",
+  "count": 162,
   "warnings": [
+    {
+      "id": "729645957e50",
+      "guid": "doc-6ac360eb9f0bb5f631b2e300",
+      "title_raw": "Philips Medical Systems DMC GmbH Radiography",
+      "company": "Philips Medical Systems DMC GmbH Radiography",
+      "reference_code": "",
+      "apparatus_name": "Philips Medical Systems DMC GmbH Radiography",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/05/philips-medical-systems-dmc-gmbh-radiography",
+      "description": "The issue may occur with the Radiography 7000 M system immediately after an exposure, causing the\ndrive function to fail and preventing repositioning of the system. The system may remain stationary\ninstead of driving upon activation of the...",
+      "pub_date": "2026-10-04T22:00:00+00:00"
+    },
     {
       "id": "b46d7b2963a1",
       "guid": "doc-6abf53a29f0bb51912b2b30f",
