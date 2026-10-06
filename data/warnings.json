@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-05T09:03:00+00:00",
-  "count": 162,
+  "generated_at": "2026-10-06T15:11:26+00:00",
+  "count": 163,
   "warnings": [
+    {
+      "id": "7936a3fe0196",
+      "guid": "doc-6ac4af0a9f0bb58d67b30820",
+      "title_raw": "Howmedica Osteonics Corp Orthopedische implantaatonderdelen",
+      "company": "Howmedica Osteonics Corp Orthopedische implantaatonderdelen",
+      "reference_code": "",
+      "apparatus_name": "Howmedica Osteonics Corp Orthopedische implantaatonderdelen",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/06/howmedica-osteonics-corp-orthopedische-implantaatonderdelen-vervaardigd-uit-uhmwpe-staafmateriaal",
+      "description": "Stryker is op de hoogte gesteld van de hulpmiddelen die vermeld staan in Bijlage A: Bijlage met onderdeel-/partijnummer: RA2026-4417798zijn vervaardigd uit polyethyleen met een ultrahoge moleculaire massa (UHMWPE) dat meer dan vijf (5) jaar is...",
+      "pub_date": "2026-10-05T22:00:00+00:00"
+    },
     {
       "id": "729645957e50",
       "guid": "doc-6ac360eb9f0bb5f631b2e300",
