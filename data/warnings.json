@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-06T15:11:26+00:00",
-  "count": 163,
+  "generated_at": "2026-10-09T09:02:48+00:00",
+  "count": 166,
   "warnings": [
+    {
+      "id": "d58fb08e8322",
+      "guid": "doc-6ac88d1911495c2392c94b94",
+      "title_raw": "PTW Freiburg VERIQA RT MonteCarlo 3D v3",
+      "company": "PTW Freiburg VERIQA RT MonteCarlo 3D v3",
+      "reference_code": "",
+      "apparatus_name": "PTW Freiburg VERIQA RT MonteCarlo 3D v3",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/09/ptw-freiburg-veriqa-rt-montecarlo-3d-v3",
+      "description": "If a customer plans with a bolus in the TPS and then sends this plan to VERIQA RT MonteCarlo 3D for secondary dose calculation, the dose is calculated based on the RT Plan data including the bolus and its correct density. However, the user...",
+      "pub_date": "2026-10-08T22:00:00+00:00"
+    },
+    {
+      "id": "90e1026c1b56",
+      "guid": "doc-6ac88c3311495c0379c94b8c",
+      "title_raw": "Percussioniare Corporation IPV systemen",
+      "company": "Percussioniare Corporation IPV systemen",
+      "reference_code": "",
+      "apparatus_name": "Percussioniare Corporation IPV systemen",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/09/percussioniare-corporation-ipv-systemen",
+      "description": "Er kunnen ernstige letsels optreden als de bijgewerkte instructies niet correct worden opgevolgd bij het gebruik van dit product. Er is één ongewenst voorval gemeld.",
+      "pub_date": "2026-10-08T22:00:00+00:00"
+    },
+    {
+      "id": "fa382393037b",
+      "guid": "doc-6ac8892211495c6ad3c94b84",
+      "title_raw": "Coltene Whaledent Tenax Fiber Trans Translucent Esthetic Post System",
+      "company": "Coltene Whaledent Tenax Fiber Trans Translucent Esthetic Post System",
+      "reference_code": "",
+      "apparatus_name": "Coltene Whaledent Tenax Fiber Trans Translucent Esthetic Post System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/09/coltene-whaledent-tenax-fiber-trans-translucent-esthetic-post-system",
+      "description": "The purpose of this letter is to advise you that Coltene/Whaledent, Inc. has identified three batches of the TENAX FIBER TRANS Translucent Esthetic Post System p/n TFT1 that have been sold to markets without appropriate marketing authorization.",
+      "pub_date": "2026-10-08T22:00:00+00:00"
+    },
     {
       "id": "7936a3fe0196",
       "guid": "doc-6ac4af0a9f0bb58d67b30820",
