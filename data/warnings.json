@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-09T09:02:48+00:00",
-  "count": 166,
+  "generated_at": "2026-10-12T15:22:56+00:00",
+  "count": 168,
   "warnings": [
+    {
+      "id": "0b0d48ce9c2d",
+      "guid": "doc-6acc94bc11495cf0c4c9ca9f",
+      "title_raw": "GS Elektromedizinische Geräte G. Stemple GmbH Corpuls3",
+      "company": "GS Elektromedizinische Geräte G. Stemple GmbH Corpuls3",
+      "reference_code": "",
+      "apparatus_name": "GS Elektromedizinische Geräte G. Stemple GmbH Corpuls3",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/12/gs-elektromedizinische-gerate-g.-stemple-gmbh-corpuls3",
+      "description": "As part of our ongoing post-market surveillance and internal investigations, we have identified a potential correlation between printing a resting ECG and a temporary interruption of the monitor's Bluetooth connection, which may result in an...",
+      "pub_date": "2026-10-11T22:00:00+00:00"
+    },
+    {
+      "id": "ec04b40a59ec",
+      "guid": "doc-6accc9e211495c0e25c9d30d",
+      "title_raw": "ArjoHuntleigh AB Carevo",
+      "company": "ArjoHuntleigh AB Carevo",
+      "reference_code": "",
+      "apparatus_name": "ArjoHuntleigh AB Carevo",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/12/arjohuntleigh-ab-carevo",
+      "description": "LET OP! Betreft 3 verschillende FSN’s\n\n * FSN1: Betreft douchebrancards die zijn geproduceerd tussen 1 augustus 2015 en 20 februari 2024. We informeren u graag over een belangrijke aanvulling op de gebruiksinstructies van dit product.\n * FSN2:...",
+      "pub_date": "2026-10-11T22:00:00+00:00"
+    },
     {
       "id": "d58fb08e8322",
       "guid": "doc-6ac88d1911495c2392c94b94",
