@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T10:11:36+00:00",
-  "count": 169,
+  "generated_at": "2026-10-14T15:08:10+00:00",
+  "count": 170,
   "warnings": [
     {
       "id": "6f63505db524",
@@ -27,6 +27,17 @@
     {
       "id": "ec04b40a59ec",
       "guid": "doc-6accc9e211495c0e25c9d30d",
+      "title_raw": "ArjoHuntleigh AB Carevo",
+      "company": "ArjoHuntleigh AB Carevo",
+      "reference_code": "",
+      "apparatus_name": "ArjoHuntleigh AB Carevo",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/12/arjohuntleigh-ab-carevo",
+      "description": "LET OP! Betreft 3 verschillende FSN’s\n\n * FSN1: Betreft douchebrancards die zijn geproduceerd tussen 1 augustus 2015 en 20 februari 2024. We informeren u graag over een belangrijke aanvulling op de gebruiksinstructies van dit product.\n * FSN2:...",
+      "pub_date": "2026-10-11T22:00:00+00:00"
+    },
+    {
+      "id": "ffcf1c873a79",
+      "guid": "doc-6acf5e3f11495cb5bdc9f1b5",
       "title_raw": "ArjoHuntleigh AB Carevo",
       "company": "ArjoHuntleigh AB Carevo",
       "reference_code": "",
