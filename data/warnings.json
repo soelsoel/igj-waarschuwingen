@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-12T15:22:56+00:00",
-  "count": 168,
+  "generated_at": "2026-10-14T10:11:36+00:00",
+  "count": 169,
   "warnings": [
+    {
+      "id": "6f63505db524",
+      "guid": "doc-6acf1e4f11495ce50dc9ec2a",
+      "title_raw": "Trokamed IFU of surgical instruments for Gynecology Urology",
+      "company": "Trokamed IFU of surgical instruments for Gynecology Urology",
+      "reference_code": "",
+      "apparatus_name": "Trokamed IFU of surgical instruments for Gynecology Urology",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/14/trokamed-gmbh-ifu-of-surgical-instruments-for-gynecology-urology",
+      "description": "In het kader van onze continue post-market surveillance zijn wij er op attent gemaakt dat in de gebruiksaanwijzing van onze producten een belangrijke veiligheidswaarschuwing ontbreekt met betrekking tot het desinfectiemiddel bij de herverwerking.",
+      "pub_date": "2026-10-13T22:00:00+00:00"
+    },
     {
       "id": "0b0d48ce9c2d",
       "guid": "doc-6acc94bc11495cf0c4c9ca9f",
