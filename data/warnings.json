@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-14T15:08:10+00:00",
-  "count": 170,
+  "generated_at": "2026-10-15T07:25:34+00:00",
+  "count": 174,
   "warnings": [
+    {
+      "id": "782def2c5c1e",
+      "guid": "doc-6ad074a09f0bb5b759b3c6ff",
+      "title_raw": "Sterisets Manufacturing Steriflush Syringes NaCl 0.9 percent",
+      "company": "Sterisets Manufacturing Steriflush Syringes NaCl 0.9 percent",
+      "reference_code": "",
+      "apparatus_name": "Sterisets Manufacturing Steriflush Syringes NaCl 0.9 percent",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/15/sterisets-manufacturing-steriflush-syringes-nacl-0.9-percent",
+      "description": "This FSCA has not been initiated in response to reported serious incidents or identified product-related adverse events but is being implemented following the findings of the inspection and in compliance with the mandatory recall decision issued...",
+      "pub_date": "2026-10-14T22:00:00+00:00"
+    },
+    {
+      "id": "a9aadbbd8020",
+      "guid": "doc-6ad071ed9f0bb55ad3b3c6f0",
+      "title_raw": "Sterisets Manufacturing Steriflush Syringes with water 10 percent glycerine",
+      "company": "Sterisets Manufacturing Steriflush Syringes with water 10 percent glycerine",
+      "reference_code": "",
+      "apparatus_name": "Sterisets Manufacturing Steriflush Syringes with water 10 percent glycerine",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/15/sterisets-manufacturing-steriflush-syringes-with-water-10-procent-glycerine",
+      "description": "This FSCA has not been initiated in response to reported serious incidents or identified product-related adverse events but is being implemented following the findings of the inspection and in compliance with the mandatory recall decision issued...",
+      "pub_date": "2026-10-14T22:00:00+00:00"
+    },
+    {
+      "id": "950b03ec300b",
+      "guid": "doc-6ad076da9f0bb5b759b3c711",
+      "title_raw": "Medtronic InterStim SureScan MRI leads",
+      "company": "Medtronic InterStim SureScan MRI leads",
+      "reference_code": "",
+      "apparatus_name": "Medtronic InterStim SureScan MRI leads",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/15/medtronic-interstim-surescan-mri-leads",
+      "description": "Door gebruik van een incompatibele geleidingsdraad of percutane verlengkabel kan het systeem niet meer naar behoren werken, wat heeft geleid tot vertraging van de ingreep of de noodzaak tot operatieve vervanging van het product.",
+      "pub_date": "2026-10-14T22:00:00+00:00"
+    },
+    {
+      "id": "979208abb423",
+      "guid": "doc-6ad06fad11495c5c50c9f9bb",
+      "title_raw": "Sterisets Manufacturing Steriflush Syringes with water",
+      "company": "Sterisets Manufacturing Steriflush Syringes with water",
+      "reference_code": "",
+      "apparatus_name": "Sterisets Manufacturing Steriflush Syringes with water",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/15/sterisets-manufacturing-steriflush-syringes-with-water",
+      "description": "This FSCA has not been initiated in response to reported serious incidents or identified product-related adverse events but is being implemented following the findings of the inspection and in compliance with the mandatory recall decision issued...",
+      "pub_date": "2026-10-14T22:00:00+00:00"
+    },
     {
       "id": "6f63505db524",
       "guid": "doc-6acf1e4f11495ce50dc9ec2a",
