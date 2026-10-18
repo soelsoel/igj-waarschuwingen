@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-15T07:25:34+00:00",
-  "count": 174,
+  "generated_at": "2026-10-18T20:41:51+00:00",
+  "count": 177,
   "warnings": [
+    {
+      "id": "3ab39a1d393b",
+      "guid": "doc-6ad5087b9f0bb5ef78b3dd49",
+      "title_raw": "Convatec Ltd ESENTA Stomahesive Paste",
+      "company": "Convatec Ltd ESENTA Stomahesive Paste",
+      "reference_code": "",
+      "apparatus_name": "Convatec Ltd ESENTA Stomahesive Paste",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/18/convatec-ltd-esenta-stomahesive-paste",
+      "description": "Convatec voert een vrijwillige terugroepactie uit voor specifieke partijen ESENTA™ Stomahesive-pasta vanwege een kwaliteitsprobleem waarbij mogelijk vreemd materiaal in het product aanwezig is. Volgens onze gegevens heeft uw organisatie mogelijk...",
+      "pub_date": "2026-10-17T22:00:00+00:00"
+    },
+    {
+      "id": "4964019762de",
+      "guid": "doc-6ad5061e9f0bb5a08ab3dd45",
+      "title_raw": "GE Healthcare Centricity PACS Enterprise Archive",
+      "company": "GE Healthcare Centricity PACS Enterprise Archive",
+      "reference_code": "",
+      "apparatus_name": "GE Healthcare Centricity PACS Enterprise Archive",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/18/ge-healthcare-centricity-pacs-enterprise-archive",
+      "description": "GE HealthCare heeft geconstateerd dat historische beeldgegevens die vanuit een verouderd systeem zijn gemigreerd, onder bepaalde omstandigheden ten onrechte aan een andere patiënt kunnen worden gekoppeld. In dit geval kunnen onderzoeken of beelden...",
+      "pub_date": "2026-10-17T22:00:00+00:00"
+    },
+    {
+      "id": "0a30661680f0",
+      "guid": "doc-6ad504689f0bb56d17b3dd41",
+      "title_raw": "RaySearch Laboratories AB RayStation",
+      "company": "RaySearch Laboratories AB RayStation",
+      "reference_code": "",
+      "apparatus_name": "RaySearch Laboratories AB RayStation",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/18/raysearch-laboratories-ab-raystation",
+      "description": "This notice concerns an issue found with dose deformation. When a dose is deformed using a deformable\nregistration that expands outwards near the boundary of the original dose grid, parts of the deformed dose\nmay extend beyond the boundary,...",
+      "pub_date": "2026-10-17T22:00:00+00:00"
+    },
     {
       "id": "782def2c5c1e",
       "guid": "doc-6ad074a09f0bb5b759b3c6ff",
