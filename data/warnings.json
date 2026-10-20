@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T20:41:51+00:00",
-  "count": 177,
+  "generated_at": "2026-10-20T10:03:43+00:00",
+  "count": 179,
   "warnings": [
+    {
+      "id": "31bef13f9337",
+      "guid": "doc-6ad70dd19f0bb5a703b3eb97",
+      "title_raw": "American Orthodontics Orthodontic Metal Devices",
+      "company": "American Orthodontics Orthodontic Metal Devices",
+      "reference_code": "",
+      "apparatus_name": "American Orthodontics Orthodontic Metal Devices",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/20/american-orthodontics-orthodontic-metal-devices",
+      "description": "Er werd één ongewenst voorval gemeld waarbij door radiofrequentie veroorzaakte opwarming optrad, wat uiteindelijk tot een vertraagde behandeling van de patiënt heeft geleid.",
+      "pub_date": "2026-10-19T22:00:00+00:00"
+    },
+    {
+      "id": "2226e82e0edb",
+      "guid": "doc-6ad710ce11495c0d67ca2103",
+      "title_raw": "Abbott Laboratories ARCHITECT Processing Module",
+      "company": "Abbott Laboratories ARCHITECT Processing Module",
+      "reference_code": "",
+      "apparatus_name": "Abbott Laboratories ARCHITECT Processing Module",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/20/abbott-laboratories-architect-i2000sr-processing-module",
+      "description": "Through customer complaint investigations, an issue has been identified with the 5 Amp (5A) diode used in the Induction Heater (IH) Control Module on the ARCHITECT i2000SR IH Kit. The diode may be exposed to current exceeding its specified rating,...",
+      "pub_date": "2026-10-19T22:00:00+00:00"
+    },
     {
       "id": "3ab39a1d393b",
       "guid": "doc-6ad5087b9f0bb5ef78b3dd49",
