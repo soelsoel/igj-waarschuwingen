@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-20T10:03:43+00:00",
-  "count": 179,
+  "generated_at": "2026-10-22T07:34:03+00:00",
+  "count": 181,
   "warnings": [
+    {
+      "id": "250b258165c3",
+      "guid": "doc-6ad9a3fc11495cacd1ca382d",
+      "title_raw": "Medtronic Abre Venous Self-expanding Stent System",
+      "company": "Medtronic Abre Venous Self",
+      "reference_code": "",
+      "apparatus_name": "expanding Stent System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/22/medtronic-abre-venous-self-expanding-stent-system",
+      "description": "Medtronic laat u bij deze weten dat er een update van de gebruiksaanwijzing is voor het Abre™ zelfontplooiende veneuze stentsysteem (in deze brief 'Abre' genoemd). Deze update biedt een goedgekeurde alternatieve oplossing met handmatige uitzetting...",
+      "pub_date": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "id": "0c4e34ca3fac",
+      "guid": "doc-6ad9a8599f0bb5a190b3fd3f",
+      "title_raw": "Patient Lifting Solutions  Track Coupling Double Coupling Safety Lock Trolley",
+      "company": "Patient Lifting Solutions  Track Coupling Double Coupling Safety Lock Trolley",
+      "reference_code": "",
+      "apparatus_name": "Patient Lifting Solutions  Track Coupling Double Coupling Safety Lock Trolley",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/22/patient-lifting-solutions-b.v.-track-coupling-double-coupling-safety-lock-trolley",
+      "description": "The welded connection between two steel parts can be of a strength below the design specification. In the coupling and safety lock this can result in the Blocking arm becoming detached. This means that the trolley of a ceiling hoist is not...",
+      "pub_date": "2026-10-21T22:00:00+00:00"
+    },
     {
       "id": "31bef13f9337",
       "guid": "doc-6ad70dd19f0bb5a703b3eb97",
