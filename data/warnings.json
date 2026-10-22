@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T07:34:03+00:00",
-  "count": 181,
+  "generated_at": "2026-10-22T13:47:09+00:00",
+  "count": 182,
   "warnings": [
     {
       "id": "250b258165c3",
@@ -22,6 +22,17 @@
       "apparatus_name": "Patient Lifting Solutions  Track Coupling Double Coupling Safety Lock Trolley",
       "link": "https://www.igj.nl/documenten/fsn-2026/10/22/patient-lifting-solutions-b.v.-track-coupling-double-coupling-safety-lock-trolley",
       "description": "The welded connection between two steel parts can be of a strength below the design specification. In the coupling and safety lock this can result in the Blocking arm becoming detached. This means that the trolley of a ceiling hoist is not...",
+      "pub_date": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "id": "175deccc0694",
+      "guid": "doc-6ad9d20e9f0bb570e8b4001e",
+      "title_raw": "Abbott Diabetes Care Ltd FreeStyle Libre 3 App and Libre App",
+      "company": "Abbott Diabetes Care Ltd FreeStyle Libre 3 App and Libre App",
+      "reference_code": "",
+      "apparatus_name": "Abbott Diabetes Care Ltd FreeStyle Libre 3 App and Libre App",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/22/abbott-diabetes-care-ltd-freestyle-libre-3-app-and-libre-app",
+      "description": "Abbott heeft op 15 oktober een beveiligingsupdate uitgebracht voor de FreeStyle Libre 3-app en Libre van Abbott-app. Sindsdien hebben we vastgesteld dat deze update bij sommige gebruikers kan leiden tot aanhoudend signaalverlies, wat betekent dat...",
       "pub_date": "2026-10-21T22:00:00+00:00"
     },
     {
