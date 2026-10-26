@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-22T13:47:09+00:00",
-  "count": 182,
+  "generated_at": "2026-10-26T13:01:51+00:00",
+  "count": 183,
   "warnings": [
+    {
+      "id": "012309265d8b",
+      "guid": "doc-6adf478b9f0bb5780bb4158a",
+      "title_raw": "Philips Medical Systems Nederland BV Lumify Diagnostic Ultrasound System",
+      "company": "Philips Medical Systems Nederland BV Lumify Diagnostic Ultrasound System",
+      "reference_code": "",
+      "apparatus_name": "Philips Medical Systems Nederland BV Lumify Diagnostic Ultrasound System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/26/philips-medical-systems-nederland-bv-lumify-diagnostic-ultrasound-system",
+      "description": "Philips heeft de volgende mogelijke problemen met het Lumify-diagnostisch echografiesysteem\ngeïdentificeerd waardoor de scanfunctionaliteit kan worden verhinderd of vertraagd.",
+      "pub_date": "2026-10-25T23:00:00+00:00"
+    },
     {
       "id": "250b258165c3",
       "guid": "doc-6ad9a3fc11495cacd1ca382d",
