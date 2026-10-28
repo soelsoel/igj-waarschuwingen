@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-26T13:01:51+00:00",
-  "count": 183,
+  "generated_at": "2026-10-28T16:01:01+00:00",
+  "count": 186,
   "warnings": [
+    {
+      "id": "25fb8d434118",
+      "guid": "doc-6ae1d10511495cf616ca680b",
+      "title_raw": "Update Abbott Diabetes Care FreeStyle Libre 3 App",
+      "company": "Update Abbott Diabetes Care FreeStyle Libre 3 App",
+      "reference_code": "",
+      "apparatus_name": "Update Abbott Diabetes Care FreeStyle Libre 3 App",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/28/abbott-diabetes-care-freestyle-libre-3-app-and-libre-app",
+      "description": "Door je app bij te werken naar de nieuwste versie worden zowel de eerder gemelde beveiligingskwetsbaarheid die de FreeStyle Libre 3-app en Libre van Abbott-app trof, als een probleem met signaalverlies verholpen dat sommige gebruikers ondervonden...",
+      "pub_date": "2026-10-27T23:00:00+00:00"
+    },
+    {
+      "id": "4665a61a566c",
+      "guid": "doc-6ae1d2919f0bb5edb0b42c0e",
+      "title_raw": "Lowenstein Medical Technology LUISA TIVAN LS Life One",
+      "company": "Lowenstein Medical Technology LUISA TIVAN LS Life One",
+      "reference_code": "",
+      "apparatus_name": "Lowenstein Medical Technology LUISA TIVAN LS Life One",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/28/lowenstein-medical-technology-luisa-tivan-ls-life-one",
+      "description": "Kwaliteit en veiligheid hebben voor ons de hoogste prioriteit. Daarom vinden wij het belang-rijk om de volgende urgente veiligheidsinformatie in verband met het beademingsapparaat van het model LM150TD en een mogelijke communicatiestoring van de...",
+      "pub_date": "2026-10-27T23:00:00+00:00"
+    },
+    {
+      "id": "26fe3b01e49c",
+      "guid": "doc-6ae1d57911495c5ed9ca6891",
+      "title_raw": "Merit Medical Systems Philips Bridge Balloon Prep Kit",
+      "company": "Merit Medical Systems Philips Bridge Balloon Prep Kit",
+      "reference_code": "",
+      "apparatus_name": "Merit Medical Systems Philips Bridge Balloon Prep Kit",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/28/merit-medical-systems-philips-bridge-balloon-prep-kit",
+      "description": "Merit werd zich onlangs bewust van een mogelijk interactieprobleem bij apparaten dat verband houdt met het gebruik van de Bridge™ Prep Kit (vervaardigd door Merit en gedistribueerd door Philips) in combinatie met de Philips Bridge™ Occlusion...",
+      "pub_date": "2026-10-27T23:00:00+00:00"
+    },
     {
       "id": "012309265d8b",
       "guid": "doc-6adf478b9f0bb5780bb4158a",
