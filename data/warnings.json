@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-28T16:01:01+00:00",
-  "count": 186,
+  "generated_at": "2026-10-30T12:54:05+00:00",
+  "count": 189,
   "warnings": [
+    {
+      "id": "a223da531b9d",
+      "guid": "doc-6ae474489f0bb54929b4413a",
+      "title_raw": "Olympus Winter and Ibe GmbH HF-cable monopolar HF-cable HiQ bipolar HF",
+      "company": "Olympus Winter and Ibe GmbH HF",
+      "reference_code": "cable monopolar HF",
+      "apparatus_name": "cable HiQ bipolar HF",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/30/olympus-winter-and-ibe-gmbh-hf-cable-monopolar-hf-cable-hiq-bipolar-hf",
+      "description": "Olympus ontving een klacht over een thermisch incident met de HF-kabel WA00014A, waarbij een lichte brandwond ontstond. Tijdens het onderzoek werd vastgesteld dat de kabel langer werd gebruikt dan de in de gebruiksaanwijzing aangegeven...",
+      "pub_date": "2026-10-29T23:00:00+00:00"
+    },
+    {
+      "id": "96a6ea1a68d3",
+      "guid": "doc-6ae46a819f0bb5ca50b44029",
+      "title_raw": "Stryker Spine Spinal System Nitinol K-Wire Blunt",
+      "company": "Stryker Spine Spinal System Nitinol K",
+      "reference_code": "",
+      "apparatus_name": "Wire Blunt",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/30/stryker-spine-spinal-system-nitinol-k-wire-blunt",
+      "description": "VB Spine has received reports that the ES2® Spinal System Nitinol K-Wire Blunt have fractured during removal from the patient. An investigation determined that certain laser markings were manufactured too deeply in the lots in scope. A total of 16...",
+      "pub_date": "2026-10-29T23:00:00+00:00"
+    },
+    {
+      "id": "753e41d5a152",
+      "guid": "doc-6ae4643211495c571bca7eaa",
+      "title_raw": "STAXS  BV DOTCH Puru Syringe",
+      "company": "STAXS  BV DOTCH Puru Syringe",
+      "reference_code": "",
+      "apparatus_name": "STAXS  BV DOTCH Puru Syringe",
+      "link": "https://www.igj.nl/documenten/fsn-2026/10/30/staxs-the-netherlands-bv-dotch-puru-syringe",
+      "description": "STAXS® is geïnformeerd dat na het optrekken van vloeistof bij 1ml spuiten kleine deeltjes in de vloeistof zijn aangetroffen. Op basis van de tot op heden vastgestelde bevindingen lijkt dit geen geïsoleerd incident binnen de betrokken batch te...",
+      "pub_date": "2026-10-29T23:00:00+00:00"
+    },
     {
       "id": "25fb8d434118",
       "guid": "doc-6ae1d10511495cf616ca680b",
