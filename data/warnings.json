@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-30T12:54:05+00:00",
-  "count": 189,
+  "generated_at": "2026-11-01T22:48:58+00:00",
+  "count": 193,
   "warnings": [
+    {
+      "id": "472ec524cc07",
+      "guid": "doc-6ae7ad2d11495cf508ca873d",
+      "title_raw": "Siemens Healthcare Diagnostics Inc tox Serum Tricyclic Antidepressant Calibrator Control - Excess Sodium Azide",
+      "company": "Siemens Healthcare Diagnostics Inc tox Serum Tricyclic Antidepressant Calibrator Control",
+      "reference_code": "",
+      "apparatus_name": "Excess Sodium Azide",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/siemens-healthcare-diagnostics-inc-tox-serum-tricyclic-antidepressant-calibrator-control-excess-sodium-azide",
+      "description": "Siemens Healthineers identified through an internal investigation that the production lot of the product listed above contains a higher-than-specified concentration of sodium azide of 0.2% after reconstitution. Prior to reconstitution, the...",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
+    {
+      "id": "b074348fbd61",
+      "guid": "doc-6ae7aaef9f0bb5e6b2b448a0",
+      "title_raw": "Hitachi High-Technologies Corporation sample supply unit",
+      "company": "Hitachi High",
+      "reference_code": "",
+      "apparatus_name": "Technologies Corporation sample supply unit",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/hitachi-high-technologies-corporation-sample-supply-unit",
+      "description": "A software malfunction has been identified on the cobas pro (c503) and cobas pure (c303) platforms affecting the Calibration Library. This defect allows the system to accept erroneous, non-monotonous calibrations for Spline-type assays.",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
+    {
+      "id": "298cb459fc8b",
+      "guid": "doc-6ae7a90a9f0bb5c75bb4489c",
+      "title_raw": "Medtronic Abre Venous Self-expanding Stent System",
+      "company": "Medtronic Abre Venous Self",
+      "reference_code": "",
+      "apparatus_name": "expanding Stent System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/medtronic-abre-venous-self-expanding-stent-system",
+      "description": "Medtronic laat u bij deze weten dat er een update van de gebruiksaanwijzing is voor het Abre™ zelfontplooiende veneuze stentsysteem (in deze brief 'Abre' genoemd). Deze update biedt een goedgekeurde alternatieve oplossing met handmatige uitzetting...",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
+    {
+      "id": "75cc1b813fcd",
+      "guid": "doc-6ae7a70511495c5c30ca8732",
+      "title_raw": "Medtronic InterStim SureScan MRI leads",
+      "company": "Medtronic InterStim SureScan MRI leads",
+      "reference_code": "",
+      "apparatus_name": "Medtronic InterStim SureScan MRI leads",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/medtronic-interstim-surescan-mri-leads",
+      "description": "Medtronic heeft 15 klachten ontvangen met een wereldwijde incidentie van 0,006%, waarbij tussen 1 januari 2020 en 12 augustus 2026 een incompatibele InterStim SureScan MRI-geleidingsdraad, model 978B1 of 978A1, of een percutane verlengkabel, model...",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
     {
       "id": "a223da531b9d",
       "guid": "doc-6ae474489f0bb54929b4413a",
