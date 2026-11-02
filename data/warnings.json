@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T22:48:58+00:00",
-  "count": 193,
+  "generated_at": "2026-11-02T20:45:54+00:00",
+  "count": 196,
   "warnings": [
     {
       "id": "472ec524cc07",
@@ -44,6 +44,39 @@
       "apparatus_name": "Medtronic InterStim SureScan MRI leads",
       "link": "https://www.igj.nl/documenten/fsn-2026/11/02/medtronic-interstim-surescan-mri-leads",
       "description": "Medtronic heeft 15 klachten ontvangen met een wereldwijde incidentie van 0,006%, waarbij tussen 1 januari 2020 en 12 augustus 2026 een incompatibele InterStim SureScan MRI-geleidingsdraad, model 978B1 of 978A1, of een percutane verlengkabel, model...",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
+    {
+      "id": "83c26366cf63",
+      "guid": "doc-6ae87d749f0bb5aa71b44dd6",
+      "title_raw": "Sysmex Corporation Japan Automated Blood Coagulation Analyzer CN Series",
+      "company": "Sysmex Corporation Japan Automated Blood Coagulation Analyzer CN Series",
+      "reference_code": "",
+      "apparatus_name": "Sysmex Corporation Japan Automated Blood Coagulation Analyzer CN Series",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/sysmex-corporation-japan-automated-blood-coagulation-analyzer-cn-series",
+      "description": "This Field Safety Notice (FSN) is intended to inform users of a potential risk of falsely\nlow measurement results associated with deposit accumulation on Sample Arm B\nprobe.",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
+    {
+      "id": "200aca0f2318",
+      "guid": "doc-6ae87c619f0bb545e7b44dc3",
+      "title_raw": "Philips Ultrasound LLC Philips- EPIQ Elite Diagnostic Ultrasound system",
+      "company": "Philips Ultrasound LLC Philips",
+      "reference_code": "",
+      "apparatus_name": "EPIQ Elite Diagnostic Ultrasound system",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/philips-ultrasound-llc-philips-epiq-elite-diagnostic-ultrasound-system",
+      "description": "When using a Philips EPIQ Elite system with the C5-1 transducer with the Abd Vasc TSP in Pulsed Wave\nDoppler mode, the visual representation of the Pulsed Wave sample volume (SV) gate is slightly offset\n(shallower) to the actual location of the...",
+      "pub_date": "2026-11-01T23:00:00+00:00"
+    },
+    {
+      "id": "20d6c77c50a5",
+      "guid": "doc-6ae87b2f11495cf96bca8c38",
+      "title_raw": "bioMerieux SA EMAG",
+      "company": "bioMerieux SA EMAG",
+      "reference_code": "",
+      "apparatus_name": "bioMerieux SA EMAG",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/02/biomerieux-sa-emag",
+      "description": "Het doel van dit bericht is u te informeren over foutmelding \"Error 10003\". Deze fout houdt verband met een time-outprobleem van het verwarmingselement tijdens het gebruik van uw EMAG-systeem (referentie 418591/418591U), waarop eerder SP4 Patch...",
       "pub_date": "2026-11-01T23:00:00+00:00"
     },
     {
