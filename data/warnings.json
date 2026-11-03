@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-02T20:45:54+00:00",
-  "count": 196,
+  "generated_at": "2026-11-03T10:51:28+00:00",
+  "count": 197,
   "warnings": [
+    {
+      "id": "a0b6666f8d10",
+      "guid": "doc-6ae9892911495c3b5cca962b",
+      "title_raw": "Beckman Coulter Access HIV Ag Ab Combo Calibrator",
+      "company": "Beckman Coulter Access HIV Ag Ab Combo Calibrator",
+      "reference_code": "",
+      "apparatus_name": "Beckman Coulter Access HIV Ag Ab Combo Calibrator",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/03/beckman-coulter-access-hiv-ag-ab-combo-calibrator",
+      "description": "Beckman Coulter heeft door middel van intern onderzoek vastgesteld dat de 2D-barcode op de kalibratiekaart voor de hierboven vermelde partijnummers van de Access HIV Ag/Ab-combinatiekalibrator omgekeerde toewijzingen van kalibratiewaarden bevat.",
+      "pub_date": "2026-11-02T23:00:00+00:00"
+    },
     {
       "id": "472ec524cc07",
       "guid": "doc-6ae7ad2d11495cf508ca873d",
