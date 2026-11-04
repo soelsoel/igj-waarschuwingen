@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-03T10:51:28+00:00",
-  "count": 197,
+  "generated_at": "2026-11-04T15:25:41+00:00",
+  "count": 201,
   "warnings": [
+    {
+      "id": "9624f811424a",
+      "guid": "doc-6aeaefd49f0bb5e67db4657c",
+      "title_raw": "Medartis AG TriLock Scaph Pl",
+      "company": "Medartis AG TriLock Scaph Pl",
+      "reference_code": "",
+      "apparatus_name": "Medartis AG TriLock Scaph Pl",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/04/medartis-ag-trilock-scaph-pl",
+      "description": "The plate was bent in the wrong direction, so the locking contours are now on the underside (convex side).",
+      "pub_date": "2026-11-03T23:00:00+00:00"
+    },
+    {
+      "id": "cd3eb656b83a",
+      "guid": "doc-6aeaf0c511495c4432caa3e8",
+      "title_raw": "Siemens Healthcare Diagnostics Inc Atellica CH Apolipoprotein B",
+      "company": "Siemens Healthcare Diagnostics Inc Atellica CH Apolipoprotein B",
+      "reference_code": "",
+      "apparatus_name": "Siemens Healthcare Diagnostics Inc Atellica CH Apolipoprotein B",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/04/siemens-healthcare-diagnostics-inc-atellica-ch-apolipoprotein-b",
+      "description": "Siemens Healthineers has confirmed through the investigation of customer complaints that the\nAtellica CH Apolipoprotein B (APO B) Lot 252670 does not meet the specification for within-lab\nprecision of ≤ 7.0% Coefficient of Variation (CV) when used...",
+      "pub_date": "2026-11-03T23:00:00+00:00"
+    },
+    {
+      "id": "ad0b79f886d6",
+      "guid": "doc-6aeaf70d9f0bb5cdafb4663b",
+      "title_raw": "Datascope Corp Cardiosave Intra Aortic Balloon Pumps",
+      "company": "Datascope Corp Cardiosave Intra Aortic Balloon Pumps",
+      "reference_code": "",
+      "apparatus_name": "Datascope Corp Cardiosave Intra Aortic Balloon Pumps",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/04/datascope-corp-cardiosave-intra-aortic-balloon-pumps",
+      "description": "Getinge has identified a software issue in Cardiosave IABPs with software version D.03. During an autofill cycle, the compressor speed is reduced by the D.03 software, which may lead to a lower vacuum level in the system. Depending upon the vacuum...",
+      "pub_date": "2026-11-03T23:00:00+00:00"
+    },
+    {
+      "id": "075d8972f502",
+      "guid": "doc-6aeaf4dc11495c9e39caa480",
+      "title_raw": "Beckman coulter chemistry analyzer",
+      "company": "Beckman coulter chemistry analyzer",
+      "reference_code": "",
+      "apparatus_name": "Beckman coulter chemistry analyzer",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/04/beckman-coulter-clinical-chemistry-analyzer",
+      "description": "Beckman Coulter has identified a software issue affecting DxC 500 AU Clinical Chemistry Analyzers when testing plasma samples. Following user configuration of a Clinical Chemistry test to use units different from the system default, a subsequent...",
+      "pub_date": "2026-11-03T23:00:00+00:00"
+    },
     {
       "id": "a0b6666f8d10",
       "guid": "doc-6ae9892911495c3b5cca962b",
