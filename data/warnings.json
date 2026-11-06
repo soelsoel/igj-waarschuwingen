@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-04T15:25:41+00:00",
-  "count": 201,
+  "generated_at": "2026-11-06T15:01:45+00:00",
+  "count": 206,
   "warnings": [
+    {
+      "id": "968089545c22",
+      "guid": "doc-6aeda4084d1aaeef93dcc9bf",
+      "title_raw": "BS Medical Tech Industry IMP Tumorstent Innoflex Mono Ureteral stent",
+      "company": "BS Medical Tech Industry IMP Tumorstent Innoflex Mono Ureteral stent",
+      "reference_code": "",
+      "apparatus_name": "BS Medical Tech Industry IMP Tumorstent Innoflex Mono Ureteral stent",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/06/bs-medical-tech-industry-imp-tumorstent-innoflex-mono-ureteral-stent",
+      "description": "The sterile packaging of the products failed the microbial barrier test after five years of real-time aging. Therefore, there is no evidence that the sterile packaging can maintain product sterility over a shelf life of five vears.",
+      "pub_date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "a55f601003b3",
+      "guid": "doc-6aedc39c2af2f6ea2c7a109f",
+      "title_raw": "Helena Laboratories UK Limited trading V8 UltraCE",
+      "company": "Helena Laboratories UK Limited trading V8 UltraCE",
+      "reference_code": "",
+      "apparatus_name": "Helena Laboratories UK Limited trading V8 UltraCE",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/06/helena-laboratories-uk-limited-trading-v8-ultrace",
+      "description": "Tijdens de geautomatiseerde IFE geltraybereiding door de va UltraCE, bereidde het\nanalyse-apparaat zes verdunningen voor elk patiëntmonster (Total, lgG, lgA, lgM,\nKappa, Lambda). Als er onvoldoende IFE Diluent is om alle zes verdunningen...",
+      "pub_date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "ad46099a2a4c",
+      "guid": "doc-6aeda6a22af2f662c97a0d76",
+      "title_raw": "Bolton Medical TREO RelayPro RelayPlus",
+      "company": "Bolton Medical TREO RelayPro RelayPlus",
+      "reference_code": "",
+      "apparatus_name": "Bolton Medical TREO RelayPro RelayPlus",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/06/bolton-medical-treo-relaypro-relayplus",
+      "description": "Through an internal review, elevated endotoxins on the delivery systems has been identified. The current testing shows ~1% of the units have the risk of endotoxin levels above the specification.",
+      "pub_date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "4a70ed460e6a",
+      "guid": "doc-6aeda1972af2f6bd957a0bb4",
+      "title_raw": "Greiner Bio One GmbH CRYO S 2 ML SV NAT mit Stehrand und 2D Barcode",
+      "company": "Greiner Bio One GmbH CRYO S 2 ML SV NAT mit Stehrand und 2D Barcode",
+      "reference_code": "",
+      "apparatus_name": "Greiner Bio One GmbH CRYO S 2 ML SV NAT mit Stehrand und 2D Barcode",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/06/greiner-bio-one-gmbh-cryo-s-2-ml-sv-nat-mit-stehrand-und-2d-barcode",
+      "description": "Our regular quality controls have determined that isolated instances of contamination may occur in various lots of Cryo.s tubes.",
+      "pub_date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "796f0c51a31b",
+      "guid": "doc-6aed9f1d4d1aae48a0dcc973",
+      "title_raw": "MEQU A S M Warmer",
+      "company": "MEQU A S M Warmer",
+      "reference_code": "",
+      "apparatus_name": "MEQU A S M Warmer",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/06/mequ-a-s-m-warmer",
+      "description": "MEQU A/S has received reports of overheating of the °M Warmer. The investigation concluded that the failure occurred due to a misplaced sealing in the fluid path, causing an internal leak of fluids inside the °M Warmer, which may cause the °M...",
+      "pub_date": "2026-11-05T23:00:00+00:00"
+    },
     {
       "id": "9624f811424a",
       "guid": "doc-6aeaefd49f0bb5e67db4657c",
