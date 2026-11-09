@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-06T15:01:45+00:00",
-  "count": 206,
+  "generated_at": "2026-11-09T18:47:21+00:00",
+  "count": 220,
   "warnings": [
+    {
+      "id": "6baa71a883aa",
+      "guid": "doc-6af1e8152af2f694997a2220",
+      "title_raw": "Baxter Medical Systems TruSystem",
+      "company": "Baxter Medical Systems TruSystem",
+      "reference_code": "",
+      "apparatus_name": "Baxter Medical Systems TruSystem",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/baxter-medical-systems-trusystem",
+      "description": "Baxter Healthcare Corporation is issuing a voluntary correction for certain TruSystem 7000 and TruSystem 7500 Surgical Tables due to a reported issue with the main lift mechanism. Customers have reported instances in which the main lift on a...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "6efdb8e5e321",
+      "guid": "doc-6af1cd594d1aae4f02dcdd08",
+      "title_raw": "Beckman Coulter Inc. SW 40 en SW 41 rotoren in Optima",
+      "company": "Beckman Coulter Inc. SW 40 en SW 41 rotoren in Optima",
+      "reference_code": "",
+      "apparatus_name": "Beckman Coulter Inc. SW 40 en SW 41 rotoren in Optima",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/beckman-coulter-inc.-sw-40-en-sw-41-rotoren-in-optima",
+      "description": "Er zijn rotoren aangetroffen met een afwijkende microstructuur, waardoor sommige rotoren tijdens het gebruik in twee of meer stukken kunnen breken.",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "1bf6d3d77c68",
+      "guid": "doc-6af1e2224d1aae662bdcdf28",
+      "title_raw": "Abiomed Inc. Automated Impella Controller",
+      "company": "Abiomed Inc. Automated Impella Controller",
+      "reference_code": "",
+      "apparatus_name": "Abiomed Inc. Automated Impella Controller",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/abiomed-inc.-automated-impella-controller",
+      "description": "Abiomed heeft een toename van het aantal klachten vastgesteld als gevolg van problemen met de herkenning van de purge-cassette, veroorzaakt door defecten aan de purge-detectiecomponent in de purge-druksensorassemblage.",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "d4874ece3f5f",
+      "guid": "doc-6af1c76d2af2f646827a1fe7",
+      "title_raw": "Philips Medizin Systeme Böblingen GmbH Dual IBP Adapter",
+      "company": "Philips Medizin Systeme Böblingen GmbH Dual IBP Adapter",
+      "reference_code": "",
+      "apparatus_name": "Philips Medizin Systeme Böblingen GmbH Dual IBP Adapter",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/philips-medizin-systeme-boblingen-gmbh-dual-ibp-adapter",
+      "description": "Philips is zich bewust geworden van een mogelijk veiligheidsprobleem doordat de dubbele IBP-adapter geen defibrillatiebescherming kan behouden als twee niet-defibrillatiebestendige transducers gelijktijdig zijn aangesloten.",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "c0891dee0bac",
+      "guid": "doc-6af1bd462af2f601ae7a1eba",
+      "title_raw": "Philips Medical Systems Nederland BV Philips Azurion",
+      "company": "Philips Medical Systems Nederland BV Philips Azurion",
+      "reference_code": "",
+      "apparatus_name": "Philips Medical Systems Nederland BV Philips Azurion",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/philips-medical-systems-nederland-bv-philips-azurion",
+      "description": "Philips Azurion-systemen maken gebruik van solid-state drives (SSD's) in verschillende pc's om het\nbesturingssysteem en beeldgegevens op te slaan en de systeemwerking te ondersteunen.\nPhilips heeft vastgesteld dat er tijdens bepaalde reparatie- of...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "c117b137e8ac",
+      "guid": "doc-6af1cb9f2af2f624e27a2072",
+      "title_raw": "Inpeco SA FlexLab X",
+      "company": "Inpeco SA FlexLab X",
+      "reference_code": "",
+      "apparatus_name": "Inpeco SA FlexLab X",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/inpeco-sa-flexlab-x",
+      "description": "De elektrische klemverbindingen van de hierboven gespecificeerde stroomkabels, die worden gebruikt om de hoofdverdeelkast met de verzamelrail te verbinden en elektrische stroom te verdelen binnen het automatiseringssysteem van FlexLab X, zijn...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "5dba6c0e1f6f",
+      "guid": "doc-6af1c9c52af2f6483f7a2024",
+      "title_raw": "Medtronic Inc. MyPTM App",
+      "company": "Medtronic Inc. MyPTM App",
+      "reference_code": "",
+      "apparatus_name": "Medtronic Inc. MyPTM App",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/medtronic-inc.-myptm-app",
+      "description": "Met deze brief wordt u geïnformeerd dat er nu een nieuwe versie van de SynchroMed A820 myPTM-toepassing beschikbaar is voor installatie op de patiëntentherapiemanager (PTM). Deze nieuwe versie, v2.0.3155 of later, lost een eerder gecommuniceerd...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "9704c7becf05",
+      "guid": "doc-6af182162af2f6cfc87a19cc",
+      "title_raw": "Hitachi High-Tech Corporation cobas c 303 analytical unit",
+      "company": "Hitachi High",
+      "reference_code": "",
+      "apparatus_name": "Tech Corporation cobas c 303 analytical unit",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/hitachi-high-tech-corporation-cobas-c-303-analytical-unit",
+      "description": "We have received complaints where vacuum tubing of the cell rinse unit of the cobas® c 303 analytical unit prematurely deteriorated.",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "08870dfd3aa8",
+      "guid": "doc-6af184122af2f6cfc87a19e2",
+      "title_raw": "Fisher Diagnostics Infinity Ammonia Standard Set",
+      "company": "Fisher Diagnostics Infinity Ammonia Standard Set",
+      "reference_code": "",
+      "apparatus_name": "Fisher Diagnostics Infinity Ammonia Standard Set",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/fisher-diagnostics-infinity-ammonia-standard-set",
+      "description": "Fisher Diagnostics is initiating field safety corrective action for the product Infinity™ Ammonia Standard Set because we have received complaints from customers reporting approximately 6% to 15% low calibration bias after switching ammonia...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "3ea38877d58d",
+      "guid": "doc-6af1917b4d1aaee457dcd86f",
+      "title_raw": "Fisher Diagnostics Infinity Ammonia Reagent for Beckman Coulter AU",
+      "company": "Fisher Diagnostics Infinity Ammonia Reagent for Beckman Coulter AU",
+      "reference_code": "",
+      "apparatus_name": "Fisher Diagnostics Infinity Ammonia Reagent for Beckman Coulter AU",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/fisher-diagnostics-infinity-ammonia-reagent-for-beckman-coulter-au",
+      "description": "Fisher Diagnostics is initiating a field safety corrective action for the product Infinity™ Ammonia Reagent for Beckman Coulter AU Chemistry Analyzers because we have received complaints from customers reporting approximately 6% to 15% low...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "7f95f99c1f9e",
+      "guid": "doc-6af1e4824d1aae24a1dcdf81",
+      "title_raw": "IntersurgicaL  Spirometry Sets and Anaesthetic Breathing Systems",
+      "company": "IntersurgicaL  Spirometry Sets and Anaesthetic Breathing Systems",
+      "reference_code": "",
+      "apparatus_name": "IntersurgicaL  Spirometry Sets and Anaesthetic Breathing Systems",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/intersurgical-ltd.-spirometry-sets-and-anaesthetic-breathing-systems",
+      "description": "Following reports received from the market of abnormal waveform performance and inaccurate physiological measurements, an investigation identified limitations in the existing internal test protocol that may not reliably detect certain assembly and...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "84c705be17e9",
+      "guid": "doc-6af1c56d2af2f68f007a1fb1",
+      "title_raw": "Brainlab SE Navigation Software Cranial EM",
+      "company": "Brainlab SE Navigation Software Cranial EM",
+      "reference_code": "",
+      "apparatus_name": "Brainlab SE Navigation Software Cranial EM",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/brainlab-se-navigation-software-cranial-em",
+      "description": "Brainlab brengt dit bericht uit om u te informeren over een mogelijk veiligheidsprobleem bij het gebruik van Navigatiesoftware Cranial EM in combinatie met de software-submodule Universal Atlas 6.0 bij neonaten (jonger dan 29 dagen) en zuigelingen...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "c548c70f2329",
+      "guid": "doc-6af1c4b32af2f6ada97a1f91",
+      "title_raw": "Immucor Panocell 20",
+      "company": "Immucor Panocell 20",
+      "reference_code": "",
+      "apparatus_name": "Immucor Panocell 20",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/immucor-panocell-20",
+      "description": "Panocell-20, artikelnummer 0005020, partij 37605 is verpakt met de onjuiste Master List. Voor cel 6 (donor C7935) stond de donor in de Master List onterecht vermeld als Jk(b+), terwijl de correcte antigeentypering Jk(b-) is",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
+    {
+      "id": "a22a587b891c",
+      "guid": "doc-6af1bf672af2f6d5007a1eec",
+      "title_raw": "Medtronic Inc Vanta with AdaptiveStim Technology",
+      "company": "Medtronic Inc Vanta with AdaptiveStim Technology",
+      "reference_code": "",
+      "apparatus_name": "Medtronic Inc Vanta with AdaptiveStim Technology",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/09/medtronic-inc-vanta-with-adaptivestim-technology",
+      "description": "Met deze brief willen we u op de hoogte stellen dat Medtronic softwareversie 2.1.4148 heeft uitgebracht van de Vanta-artsenprogrammeerapplicatie (CPA), model A71200. Deze softwareversie en latere versies bevatten een firmware-update om het eerder...",
+      "pub_date": "2026-11-08T23:00:00+00:00"
+    },
     {
       "id": "968089545c22",
       "guid": "doc-6aeda4084d1aaeef93dcc9bf",
