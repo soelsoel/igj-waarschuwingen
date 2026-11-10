@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T09:48:33+00:00",
-  "count": 226,
+  "generated_at": "2026-11-10T17:49:37+00:00",
+  "count": 230,
   "warnings": [
     {
       "id": "05f01eb49b56",
@@ -66,6 +66,50 @@
       "apparatus_name": "Medema A S Mini Crosser",
       "link": "https://www.igj.nl/documenten/fsn-2026/11/10/medema-a-s-mini-crosser-x-model-3w",
       "description": "Er zijn drie gevallen bekend waarbij de lasverbindingen van de balhoofdbuis zijn ingescheurd, waardoor de balhoofdbuis is losgekomen. Daarnaast weten wij dat bij reparaties een onbekend aantal balhoofdbuizen is vervangen dat eveneens op het punt...",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "8e0e65360d65",
+      "guid": "doc-6af34ebc2af2f6dc6f7a2f37",
+      "title_raw": "Medema A S Mini Crosser",
+      "company": "Medema A S Mini Crosser",
+      "reference_code": "",
+      "apparatus_name": "Medema A S Mini Crosser",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/medema-a-s-mini-crosser-x-model-3w",
+      "description": "Er zijn drie gevallen bekend waarbij de lasverbindingen van de balhoofdbuis zijn ingescheurd, waardoor de balhoofdbuis is losgekomen. Daarnaast weten wij dat bij reparaties een onbekend aantal balhoofdbuizen is vervangen dat eveneens op het punt...",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "3a042729480a",
+      "guid": "doc-6af30a022af2f6f7267a2966",
+      "title_raw": "Datex-Ohmeda Carestation 850",
+      "company": "Datex",
+      "reference_code": "",
+      "apparatus_name": "Ohmeda Carestation 850",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/datex-ohmeda-carestation-850",
+      "description": "GE HealthCare heeft geconstateerd dat bepaalde Carestation 850- en 850c-anesthesiesystemen (zie Details betrokken producten hieronder), minder anesthesiedamp kunnen afgeven dan de door de gebruiker geselecteerde concentratie-instelling.",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "23e2fdff92ab",
+      "guid": "doc-6af2eec24d1aaed3a9dce46f",
+      "title_raw": "Maquet Cardiopulmonary GmbH Rotaflow",
+      "company": "Maquet Cardiopulmonary GmbH Rotaflow",
+      "reference_code": "",
+      "apparatus_name": "Maquet Cardiopulmonary GmbH Rotaflow",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/maquet-cardiopulmonary-gmbh-rotaflow",
+      "description": "During internal validation of new replacement batteries, MCP identified an issue on the ROTAFLOW Console.\nThis issue can cause the device to stop battery charging after the battery operation mode has been utilized.",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "6853317b1431",
+      "guid": "doc-6af2f09f4d1aae6c94dce491",
+      "title_raw": "Boston Scientific Corporation OptiCrossTM beeldvormingskatheters voor intravasculaire echografie",
+      "company": "Boston Scientific Corporation OptiCrossTM beeldvormingskatheters voor intravasculaire echografie",
+      "reference_code": "",
+      "apparatus_name": "Boston Scientific Corporation OptiCrossTM beeldvormingskatheters voor intravasculaire echografie",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/boston-scientific-corporation-opticrosstm-beeldvormingskatheters-voor-intravasculaire-echografie",
+      "description": "Boston Scientific voert deze updates voor de gebruiksaanwijzing door naar aanleiding van meldingen van\nluchtembolie en meldingen van herhaaldelijk spoelen om de beeldkwaliteit te herstellen terwijl de katheter\nzich in het lichaam van de patiënt...",
       "pub_date": "2026-11-09T23:00:00+00:00"
     },
     {
