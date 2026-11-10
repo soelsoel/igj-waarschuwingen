@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-09T18:47:21+00:00",
-  "count": 220,
+  "generated_at": "2026-11-10T09:48:33+00:00",
+  "count": 226,
   "warnings": [
+    {
+      "id": "05f01eb49b56",
+      "guid": "doc-6af2d06d2af2f622997a24e7",
+      "title_raw": "Batec Mobility S.L Handbike Batec",
+      "company": "Batec Mobility S.L Handbike Batec",
+      "reference_code": "",
+      "apparatus_name": "Batec Mobility S.L Handbike Batec",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/batec-mobility-s.l-handbike-batec",
+      "description": "A new version of the standard EN 12184:2022 has been published, applicable from 27 May 2028. The management requests the preventive application of the speed limitation to 20 km/h for all models Handbikes platform 2.",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "7aa1c2fcfcff",
+      "guid": "doc-6af2c97c2af2f606327a24be",
+      "title_raw": "Saluda Medical Pty Ltd Evoke Closed Loop Stimulator",
+      "company": "Saluda Medical Pty Ltd Evoke Closed Loop Stimulator",
+      "reference_code": "",
+      "apparatus_name": "Saluda Medical Pty Ltd Evoke Closed Loop Stimulator",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/saluda-medical-pty-ltd-evoke-closed-loop-stimulator",
+      "description": "Saluda Medical has received reports of unintended stimulation during charging or the inability for the CLS to charge when the charger is applied.",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "6cd50012647c",
+      "guid": "doc-6af2ce9a2af2f6f8347a24ca",
+      "title_raw": "Aerogen Ltd Aerogen Solo Continuous Nebulization Tube Set",
+      "company": "Aerogen Ltd Aerogen Solo Continuous Nebulization Tube Set",
+      "reference_code": "",
+      "apparatus_name": "Aerogen Ltd Aerogen Solo Continuous Nebulization Tube Set",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/aerogen-ltd-aerogen-solo-continuous-nebulization-tube-set",
+      "description": "De spuit is bedoeld voor gebruik met de Aerogen Slangenset voor continue verneveling (CNTS)\nom medicatie toe te dienen aan de Aerogen-vernevelaar voor continue verneveling. In deze\nkennisgeving wordt uitgelegd dat sommige producten onjuiste...",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "ca58a5ed164e",
+      "guid": "doc-6af2cc0e4d1aaed873dce1b9",
+      "title_raw": "Human Care AB Altair ceiling lift",
+      "company": "Human Care AB Altair ceiling lift",
+      "reference_code": "",
+      "apparatus_name": "Human Care AB Altair ceiling lift",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/human-care-ab-altair-ceiling-lift",
+      "description": "Human Care heeft vastgesteld dat de bandclip onder bepaalde gebruiksomstandigheden kan bijdragen aan\nplaatselijke slijtage of beschadiging van de liftband.",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "902b0c17b0b6",
+      "guid": "doc-6af2c7e34d1aaed873dce18f",
+      "title_raw": "exocad GmbH exoplan",
+      "company": "exocad GmbH exoplan",
+      "reference_code": "",
+      "apparatus_name": "exocad GmbH exoplan",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/exocad-gmbh",
+      "description": "One of our official exocad resellers informed us of a finding by the treating dentist that the use of a specific\ncombination of implants, sleeve and surgical drill can result in an osteotomy being drilled 2.0 mm deeper than\nexpected. During...",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "d7567a8ed20d",
+      "guid": "doc-6af2cccb4d1aae67d6dce1c8",
+      "title_raw": "Medema A S Mini Crosser",
+      "company": "Medema A S Mini Crosser",
+      "reference_code": "",
+      "apparatus_name": "Medema A S Mini Crosser",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/10/medema-a-s-mini-crosser-x-model-3w",
+      "description": "Er zijn drie gevallen bekend waarbij de lasverbindingen van de balhoofdbuis zijn ingescheurd, waardoor de balhoofdbuis is losgekomen. Daarnaast weten wij dat bij reparaties een onbekend aantal balhoofdbuizen is vervangen dat eveneens op het punt...",
+      "pub_date": "2026-11-09T23:00:00+00:00"
+    },
     {
       "id": "6baa71a883aa",
       "guid": "doc-6af1e8152af2f694997a2220",
