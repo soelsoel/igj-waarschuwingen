@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-10T17:49:37+00:00",
-  "count": 230,
+  "generated_at": "2026-11-11T21:56:41+00:00",
+  "count": 235,
   "warnings": [
+    {
+      "id": "ef5f011ec4f5",
+      "guid": "doc-6af490614d1aae0588dcfc13",
+      "title_raw": "BioMerieux sa emag",
+      "company": "BioMerieux sa emag",
+      "reference_code": "",
+      "apparatus_name": "BioMerieux sa emag",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/11/biomerieux-sa-emag",
+      "description": "The aim of this communication is to inform you about a 10003 Error heater time-out issue when utilizing your EMAG® system Reference 418591/418591U.",
+      "pub_date": "2026-11-10T23:00:00+00:00"
+    },
+    {
+      "id": "9cb2be23cd62",
+      "guid": "doc-6af48bb44d1aae515ddcfbb3",
+      "title_raw": "Fim medical sas audiolyser adl connect",
+      "company": "Fim medical sas audiolyser adl connect",
+      "reference_code": "",
+      "apparatus_name": "Fim medical sas audiolyser adl connect",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/11/fim-medical-sas-audiolyser-adl-connect",
+      "description": "FIM MEDICAL has received two reports in which an ADL Connect audiometer emitted a tone at 250 Hz at a level much higher than the level selected in the Audiowin software.",
+      "pub_date": "2026-11-10T23:00:00+00:00"
+    },
+    {
+      "id": "5cd5485adbd5",
+      "guid": "doc-6af492dd4d1aae297ddcfc46",
+      "title_raw": "Remel Europe Ltd Neisseria meningitidis Gp C",
+      "company": "Remel Europe Ltd Neisseria meningitidis Gp C",
+      "reference_code": "",
+      "apparatus_name": "Remel Europe Ltd Neisseria meningitidis Gp C",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/11/remel-europe-ltd-neisseria-meningitidis-gp-c",
+      "description": "A technical investigation as a result of a customer complaint has determined that the following lots of R3066901 Neisseria meningitidis Gp C 2ml/VL  are not performing to IFU criteria not positive to ATCC13102 within 60 Seconds.",
+      "pub_date": "2026-11-10T23:00:00+00:00"
+    },
+    {
+      "id": "764e8ffb68ee",
+      "guid": "doc-6af4910d2af2f6be957a3b0d",
+      "title_raw": "Funke Medical GmbH Matratzenverlangerung",
+      "company": "Funke Medical GmbH Matratzenverlangerung",
+      "reference_code": "",
+      "apparatus_name": "Funke Medical GmbH Matratzenverlangerung",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/11/funke-medical-gmbh-matratzenverlangerung",
+      "description": "Tijdens een controle is vastgesteld dat de producten uit regelgevend oogpunt niet als\naccessoires voor medische hulpmiddelen waren geclassificeerd en zonder correct etiket en\nzonder conforme IFU waren verkocht, wat tot gebruiksfouten kan leiden,...",
+      "pub_date": "2026-11-10T23:00:00+00:00"
+    },
+    {
+      "id": "9c74e1512f02",
+      "guid": "doc-6af48d4b2af2f68e2c7a3aa2",
+      "title_raw": "BioFire Diagnostics biofire pn panel plus biofire ji panel",
+      "company": "BioFire Diagnostics biofire pn panel plus biofire ji panel",
+      "reference_code": "",
+      "apparatus_name": "BioFire Diagnostics biofire pn panel plus biofire ji panel",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/11/biofire-diagnostics-biofire-pn-panel-plus-biofire-ji-panel",
+      "description": "The purpose of this letter is to inform you that bioMérieux has identified an increased risk of false positive Klebsiella pneumoniae carbapenemase (KPC) antimicrobial resistance gene marker results on kit lots of the BIOFIRE® FILMARRAY® (PN)...",
+      "pub_date": "2026-11-10T23:00:00+00:00"
+    },
     {
       "id": "05f01eb49b56",
       "guid": "doc-6af2d06d2af2f622997a24e7",
