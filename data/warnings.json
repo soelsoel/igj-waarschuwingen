@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-13T16:21:27+00:00",
-  "count": 240,
+  "generated_at": "2026-11-16T09:41:24+00:00",
+  "count": 242,
   "warnings": [
+    {
+      "id": "25a8e7b93495",
+      "guid": "doc-6afaad694d1aae70e0dd1503",
+      "title_raw": "Etac Supply Center AB Swift Mobil 2 Swift Mobil Tilt 2 Swift Mobil 24 2",
+      "company": "Etac Supply Center AB Swift Mobil 2 Swift Mobil Tilt 2 Swift Mobil 24 2",
+      "reference_code": "",
+      "apparatus_name": "Etac Supply Center AB Swift Mobil 2 Swift Mobil Tilt 2 Swift Mobil 24 2",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/16/etac-supply-center-ab-swift-mobil-2-swift-mobil-tilt-2-swift-mobil-24-2",
+      "description": "Wij sturen deze veiligheidsmelding uit om gebruikers en zorginstellingen te informeren over een\ncorrigerende maatregel met betrekking tot de bovengenoemde medische hulpmiddelen. De kennisgeving\nbeschrijft de reden en de implementatie van de...",
+      "pub_date": "2026-11-15T23:00:00+00:00"
+    },
+    {
+      "id": "045fcde950ac",
+      "guid": "doc-6afaaeec2af2f6d3527a54d0",
+      "title_raw": "Etac Supply Center AB Clean 60 cm",
+      "company": "Etac Supply Center AB Clean 60 cm",
+      "reference_code": "",
+      "apparatus_name": "Etac Supply Center AB Clean 60 cm",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/16/etac-supply-center-ab-clean-60-cm",
+      "description": "Deze melding heeft alleen betrekking op de Clean douchestoel met gemonteerde verhogingsset. Een klein\naantal meldingen wijst erop dat een zwenkwiel kan losraken van het product. Dit vormt een potentieel risico\nvan letsel als een zwenkwiel tijdens...",
+      "pub_date": "2026-11-15T23:00:00+00:00"
+    },
     {
       "id": "b00f43648ced",
       "guid": "doc-6af706754d1aaeec94dd10e6",
