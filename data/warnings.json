@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-16T09:41:24+00:00",
-  "count": 242,
+  "generated_at": "2026-11-18T13:57:09+00:00",
+  "count": 243,
   "warnings": [
+    {
+      "id": "4f15ebd1f89b",
+      "guid": "doc-6afd52232af2f60b987a7144",
+      "title_raw": "Diagnostica Stago sthemo ddi m",
+      "company": "Diagnostica Stago sthemo ddi m",
+      "reference_code": "",
+      "apparatus_name": "Diagnostica Stago sthemo ddi m",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/18/diagnostica-stago-sthemo-ddi-m",
+      "description": "Overeenkomstig de bepalingen van ons kwaliteitsbeleid starten wij een terugroepactie voor dit lot. Hieronder vindt u informatie over het vastgestelde defect, evenals de maatregelen die moeten worden genomen.",
+      "pub_date": "2026-11-17T23:00:00+00:00"
+    },
     {
       "id": "25a8e7b93495",
       "guid": "doc-6afaad694d1aae70e0dd1503",
