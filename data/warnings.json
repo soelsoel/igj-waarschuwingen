@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-18T13:57:09+00:00",
-  "count": 243,
+  "generated_at": "2026-11-20T20:16:51+00:00",
+  "count": 248,
   "warnings": [
+    {
+      "id": "03446bde3c64",
+      "guid": "doc-6b00a9bf2af2f6a2ca7a9530",
+      "title_raw": "PharmaPartners BV Pharmacom",
+      "company": "PharmaPartners BV Pharmacom",
+      "reference_code": "",
+      "apparatus_name": "PharmaPartners BV Pharmacom",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/pharmapartners-bv-pharmacom",
+      "description": "U ontvangt deze ‘Field Safety Notice’ (FSN) naar aanleiding van een probleem dat wij hebben geconstateerd in het overzicht Controle bewakingssignalen én de receptcontrole (in Pharmacom en Recept Controle Online) in Pharmacom en de...",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "id": "dc9d7b048563",
+      "guid": "doc-6b00a6a74d1aaeacf6dc4098",
+      "title_raw": "Nova Biomedical Coorportation StatStrip StatStrip Xprexx KET",
+      "company": "Nova Biomedical Coorportation StatStrip StatStrip Xprexx KET",
+      "reference_code": "",
+      "apparatus_name": "Nova Biomedical Coorportation StatStrip StatStrip Xprexx KET",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/nova-biomedical-coorportation-statstrip-statstrip-xprexx-ket",
+      "description": "As part of Nova Biomedical’s ongoing commitment to product quality and customer support, Nova Biomedical is initiating an urgent medical device field safety corrective action due to increased QC test failures associated with the StatStrip Ketone...",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "id": "4650ae4cb81d",
+      "guid": "doc-6b00a2024d1aae2a0ddc4094",
+      "title_raw": "Biotronik SE and Co. KG BIOTRONIK ICDs and CRT Ds",
+      "company": "Biotronik SE and Co. KG BIOTRONIK ICDs and CRT Ds",
+      "reference_code": "",
+      "apparatus_name": "Biotronik SE and Co. KG BIOTRONIK ICDs and CRT Ds",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/biotronik-se-and-co.-kg-biotronik-icds-and-crt-ds",
+      "description": "In March 2021, a subset of BIOTRONIK ICDs and CRT-Ds was identified to be susceptible to lithium plating that may cause an increase in battery drain leading to premature battery depletion.",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "id": "0f76c8b1a689",
+      "guid": "doc-6b00992f4d1aaefe21dc408d",
+      "title_raw": "Jiaxing Tianhe Pharmaceutical  BAL Flush Syringe SS 10 ml",
+      "company": "Jiaxing Tianhe Pharmaceutical  BAL Flush Syringe SS 10 ml",
+      "reference_code": "",
+      "apparatus_name": "Jiaxing Tianhe Pharmaceutical  BAL Flush Syringe SS 10 ml",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/jiaxing-tianhe-pharmaceutical-bal-flush-syringe-ss-10-ml",
+      "description": "De gebruiks- en distributiebeperkingen en de quarantaineverplichtingen in het kader van FSCA TH-FSCA-2026001 worden opgeheven voor alle partijen die op of na 2026-01-01 zijn of worden vervaardigd, na verificatie van de productiedatum.",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "id": "3b5b40486902",
+      "guid": "doc-6b0096082af2f64dcd7a94ff",
+      "title_raw": "PharmaPartners BV Medicom",
+      "company": "PharmaPartners BV Medicom",
+      "reference_code": "",
+      "apparatus_name": "PharmaPartners BV Medicom",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/pharmapartners-bv-medicom",
+      "description": "Deze ‘Field Safety Notice’ (FSN) betreft een probleem dat op 15-10-2026 is ontstaan na een storing in de hostinginfrastructuur van cluster haarlem1. Daardoor zijn in Medicom en Pharmacom registraties en handelingen uit een deel van die ochtend...",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
     {
       "id": "4f15ebd1f89b",
       "guid": "doc-6afd52232af2f60b987a7144",
