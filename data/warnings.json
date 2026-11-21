@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T20:16:51+00:00",
-  "count": 248,
+  "generated_at": "2026-11-21T01:34:40+00:00",
+  "count": 250,
   "warnings": [
     {
       "id": "03446bde3c64",
@@ -55,6 +55,28 @@
       "apparatus_name": "PharmaPartners BV Medicom",
       "link": "https://www.igj.nl/documenten/fsn-2026/11/20/pharmapartners-bv-medicom",
       "description": "Deze ‘Field Safety Notice’ (FSN) betreft een probleem dat op 15-10-2026 is ontstaan na een storing in de hostinginfrastructuur van cluster haarlem1. Daardoor zijn in Medicom en Pharmacom registraties en handelingen uit een deel van die ochtend...",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "id": "1306b0fd8fde",
+      "guid": "doc-6b00c6024d1aaeb622dc40a7",
+      "title_raw": "Arthrex inc NanoNeedle Scope",
+      "company": "Arthrex inc NanoNeedle Scope",
+      "reference_code": "",
+      "apparatus_name": "Arthrex inc NanoNeedle Scope",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/arthrex-inc-nanoneedle-scope",
+      "description": "It was identified that affected devices may be missing the required programming. Consequently, the device may not be recognized by the imaging console and will not function when connected at the beginning of the procedure. In this situation, an...",
+      "pub_date": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "id": "3dc23097f393",
+      "guid": "doc-6b00c1f62af2f6529b7a9537",
+      "title_raw": "BD Switzerland Sarl BD Connecta Stopcock with Extension Tube",
+      "company": "BD Switzerland Sarl BD Connecta Stopcock with Extension Tube",
+      "reference_code": "",
+      "apparatus_name": "BD Switzerland Sarl BD Connecta Stopcock with Extension Tube",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/20/bd-switzerland-sarl-bd-connecta-stopcock-with-extension-tube",
+      "description": "Based on customer feedback, BD has identified that specific lot numbers of the BD Connecta™ Stopcock product codes listed above (refer to the webpage to identify the affected lot numbers) may have been manufactured with an inadequate amount of...",
       "pub_date": "2026-11-19T23:00:00+00:00"
     },
     {
