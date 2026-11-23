@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-21T01:34:40+00:00",
-  "count": 250,
+  "generated_at": "2026-11-23T21:22:03+00:00",
+  "count": 251,
   "warnings": [
+    {
+      "id": "8b490fc7c16e",
+      "guid": "doc-6b041a084d1aae4cbedc43a9",
+      "title_raw": "Hologic, Inc. 3dimensions and selenia dimensions systems",
+      "company": "Hologic",
+      "reference_code": "",
+      "apparatus_name": "Inc. 3dimensions and selenia dimensions systems",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/23/hologic-inc.-3dimensions-and-selenia-dimensions-systems",
+      "description": "Hologic heeft een potentieel risico vastgesteld op een plotselinge, onverwachte vrije val als gevolg\nvan aanzienlijke slijtage aan de verticale hefmoer van de C-Arm-constructie op 3Dimensions- en\nSelenia Dimensions-systemen.",
+      "pub_date": "2026-11-22T23:00:00+00:00"
+    },
     {
       "id": "03446bde3c64",
       "guid": "doc-6b00a9bf2af2f6a2ca7a9530",
