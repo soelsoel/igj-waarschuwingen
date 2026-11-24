@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-23T21:22:03+00:00",
-  "count": 251,
+  "generated_at": "2026-11-24T17:42:40+00:00",
+  "count": 252,
   "warnings": [
+    {
+      "id": "1718eed31de6",
+      "guid": "doc-6b054f542af2f6a56d7aa2f5",
+      "title_raw": "BS Medical Tech Industry  – Recall of Procedure Packs",
+      "company": "BS Medical Tech Industry  – Recall of Procedure Packs",
+      "reference_code": "",
+      "apparatus_name": "BS Medical Tech Industry  – Recall of Procedure Packs",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/24/bs-medical-tech-industry-recall-of-procedure-packs",
+      "description": "Recall of Procedure Packs- kits-: IMP Tumorstent, Innoflex Mono-J, Innoflex Ureteral stent, Innosoft Mono-J, Innosoft Ureteralstent, Innostar Ureteralstent, Percudrain 2 step nephrostomy, Percudrain 3, Percusoft 3 step drainage, Percusoft 3 step...",
+      "pub_date": "2026-11-23T23:00:00+00:00"
+    },
     {
       "id": "8b490fc7c16e",
       "guid": "doc-6b041a084d1aae4cbedc43a9",
