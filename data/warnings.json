@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-24T17:42:40+00:00",
-  "count": 252,
+  "generated_at": "2026-11-25T12:52:29+00:00",
+  "count": 255,
   "warnings": [
+    {
+      "id": "d0488a27e43b",
+      "guid": "doc-6b0690e84d1aaee1acdc5979",
+      "title_raw": "NEXUS ASTRAIA B.V. Mosos CTG",
+      "company": "NEXUS ASTRAIA B.V. Mosos CTG",
+      "reference_code": "",
+      "apparatus_name": "NEXUS ASTRAIA B.V. Mosos CTG",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/25/nexus-astraia-b.v.-mosos-ctg",
+      "description": "In Mosos CTG is een softwarefout vastgesteld die de functionaliteit van het coïncidentie alarm beïnvloedt. Tijdens CTG-monitoring worden hartfrequentie signalen verkregen met afzonderlijke sensoren of transducers die bedoeld zijn om de maternale...",
+      "pub_date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "d7b58776c303",
+      "guid": "doc-6b068eb82af2f63eef7ab0b7",
+      "title_raw": "Diasoft Diamant",
+      "company": "Diasoft Diamant",
+      "reference_code": "",
+      "apparatus_name": "Diasoft Diamant",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/25/diasoft-diamant",
+      "description": "Diamant geeft waarschuwingen voor medicatie-interacties op basis van\ninteractieprotocollen die worden geleverd door de Z-Index medicatiedatabase. Sommige\nZ-Index-interactieprotocollen bevatten aanvullende beslislogica waarbij één of...",
+      "pub_date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "79f288148ab5",
+      "guid": "doc-6b0693294d1aae5eb9dc5984",
+      "title_raw": "IntersurgicaL Ltd Sterile and Non-Sterile Breathing Systems",
+      "company": "IntersurgicaL Ltd Sterile and Non",
+      "reference_code": "",
+      "apparatus_name": "Sterile Breathing Systems",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/25/intersurgical-ltd-sterile-and-non-sterile-breathing-systems",
+      "description": "Some connectors were not securely bonded to the tubing during manufacture. If a connector comes away, your breathing support may be reduced or stop. This can reduce the oxygen reaching your body and could cause serious injury or death if breathing...",
+      "pub_date": "2026-11-24T23:00:00+00:00"
+    },
     {
       "id": "1718eed31de6",
       "guid": "doc-6b054f542af2f6a56d7aa2f5",
