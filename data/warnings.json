@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-25T12:52:29+00:00",
-  "count": 255,
+  "generated_at": "2026-11-27T18:57:50+00:00",
+  "count": 264,
   "warnings": [
+    {
+      "id": "307548d3c3a4",
+      "guid": "doc-6b09b8c92af2f6669c7ae15e",
+      "title_raw": "Liko AB Likorall Overhead Lift",
+      "company": "Liko AB Likorall Overhead Lift",
+      "reference_code": "",
+      "apparatus_name": "Liko AB Likorall Overhead Lift",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/liko-ab-likorall-overhead-lift",
+      "description": "In rare cases where a double fault failure occurs simultaneously, with both a motor shaft breakage and reduced SFS system performance, customers have reported instances of the lift strap lowering more quickly than expected during use.",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "3cc7c87dd684",
+      "guid": "doc-6b09b2a52af2f64fa97ae12b",
+      "title_raw": "Bentley InnoMed GmbH BeFlow Iliac Covered Stent System",
+      "company": "Bentley InnoMed GmbH BeFlow Iliac Covered Stent System",
+      "reference_code": "",
+      "apparatus_name": "Bentley InnoMed GmbH BeFlow Iliac Covered Stent System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/bentley-innomed-gmbh-beflow-iliac-covered-stent-system",
+      "description": "During internal review Bentley became aware that two lots of the BeFlow Iliac Covered Stent System were\nmanufactured with a different crimping program than intended by the manufacturing work instruction.",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "37a8e96fea75",
+      "guid": "doc-6b09a6a34d1aaee2bddc95d5",
+      "title_raw": "Datascope Corp. Cardiosave Intra-Aortic Balloon Pumps",
+      "company": "Datascope Corp. Cardiosave Intra",
+      "reference_code": "",
+      "apparatus_name": "Aortic Balloon Pumps",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/datascope-corp.-cardiosave-intra-aortic-balloon-pumps",
+      "description": "Getinge has identified that some Cardiosave devices may contain a Power Management Board (PMB) and/or Solenoid Control Board (SCB) with one or more capacitors installed with reversed polarity. These capacitors may degrade over time, potentially...",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "2485a48542cb",
+      "guid": "doc-6b09be202af2f663e87ae174",
+      "title_raw": "Amor Gummiwaren GmbH Amor Thin 3pc 12pc 100pc",
+      "company": "Amor Gummiwaren GmbH Amor Thin 3pc 12pc 100pc",
+      "reference_code": "",
+      "apparatus_name": "Amor Gummiwaren GmbH Amor Thin 3pc 12pc 100pc",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/amor-gummiwaren-gmbh-amor-thin-3pc-12pc-100pc",
+      "description": "Via onze partner in Maleisië en via de pers hebben we vernomen dat de Franse autoriteit een verkoopverbod heeft ingesteld op de voornoemde producten. De autoriteit bekritiseert het feit dat het productieproces van ultradunne/dunne condooms volgens...",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "fdabb835be52",
+      "guid": "doc-6b09bbde4d1aaee300dc964e",
+      "title_raw": "Molnlycke Health Care AB Medica Suction Connecting Tube",
+      "company": "Molnlycke Health Care AB Medica Suction Connecting Tube",
+      "reference_code": "",
+      "apparatus_name": "Molnlycke Health Care AB Medica Suction Connecting Tube",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/molnlycke-health-care-ab-medica-suction-connecting-tube",
+      "description": "Mölnlycke has recently been informed by GCMEDICA ENTERPRISE LTD., the legal manufacturer of the device in question, that a defect affecting the suction connecting tubing component (2326503-00) included within certain procedure packs has been...",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "2b03a0d31bb2",
+      "guid": "doc-6b09b6612af2f6a8f47ae156",
+      "title_raw": "Physio-Control Inc LIFEPAK 35 Monitor Defibrillator",
+      "company": "Physio",
+      "reference_code": "",
+      "apparatus_name": "Control Inc LIFEPAK 35 Monitor Defibrillator",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/physio-control-inc-lifepak35-monitor-defibrillator",
+      "description": "Stryker heeft een probleem met de LP35 vastgesteld waarbij het apparaat het bericht 'CONTROLEER RITME / ECG-analyse niet doorslaggevend' niet weergeeft zoals bedoeld wanneer alle onderstaande condities tegelijkertijd aanwezig zijn.",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "87f8fd1b0e4b",
+      "guid": "doc-6b09b4a24d1aae8ae6dc9638",
+      "title_raw": "Physio-Control Inc LIFEPAK 3 Monitor Defibrillator",
+      "company": "Physio",
+      "reference_code": "",
+      "apparatus_name": "Control Inc LIFEPAK 3 Monitor Defibrillator",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/physio-control-inc-lifepak-3-monitor-defibrillator",
+      "description": "Stryker heeft een probleem met de LP35 vastgesteld waarbij het apparaat het bericht 'CONTROLEER RITME / ECG-analyse niet doorslaggevend' niet weergeeft zoals bedoeld wanneer alle onderstaande condities tegelijkertijd aanwezig zijn.",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "81bcf3009964",
+      "guid": "doc-6b09a8e94d1aae1acadc9603",
+      "title_raw": "Abiomed Inc.Automated Impella Controller",
+      "company": "Abiomed Inc.Automated Impella Controller",
+      "reference_code": "",
+      "apparatus_name": "Abiomed Inc.Automated Impella Controller",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/abiomed-inc.automated-impella-controller",
+      "description": "Abiomed heeft besloten een corrigerende actie in verband met de veiligheid in het veld te starten voor ontwerpwijzigingen die eerder werden doorgevoerd via het Abiomed-buitendienstproces.",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "id": "d56f192d9225",
+      "guid": "doc-6b09af634d1aae8ae6dc9624",
+      "title_raw": "Endospan NEXUS Aortic Arch Stent Graft System Multi-Branch Aortic Arch Stent Graft System",
+      "company": "Endospan NEXUS Aortic Arch Stent Graft System Multi",
+      "reference_code": "",
+      "apparatus_name": "Branch Aortic Arch Stent Graft System",
+      "link": "https://www.igj.nl/documenten/fsn-2026/11/27/endospan-nexus-aortic-arch-stent-graft-system-multi-branch-aortic-arch-stent-graft-system",
+      "description": "Endospan (een dochteronderneming van Artivion) publiceert deze veiligheidswaarschuwing naar\naanleiding van meldingen over problemen bij het vrijgeven van de stentgraft van het NEXUSstentgraftsysteem\nvoor de aortaboog (NEXUS-systeem).",
+      "pub_date": "2026-11-26T23:00:00+00:00"
+    },
     {
       "id": "d0488a27e43b",
       "guid": "doc-6b0690e84d1aaee1acdc5979",
